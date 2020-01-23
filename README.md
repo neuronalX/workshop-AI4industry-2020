@@ -6,8 +6,10 @@ Experiments, data analysis, notes and presentations of the Workshop AI4Industry 
 [Download the slides here / Téléchargez les diapos de présentation ici](Hinaut2020_Workshop-AI4Industry_Intro-NLP.pdf)
 
 ### Raccourcis pour des fonctionalités utiles
-- Gérer, retirer ou afficher les [**stops word](https://stackoverflow.com/questions/41170726/add-remove-stop-words-with-spacy) d'une phrase ou d'une langue. (avec *spaCy*)
+- Ajouter ou supprimer des [**stops word**](https://stackoverflow.com/questions/41170726/add-remove-stop-words-with-spacy) (avec *spaCy*)
 - Exemple de modèle pour le [**sentence embedding** / **doc2vec**](https://tfhub.dev/google/tf2-preview/gnews-swivel-20dim/1) (utilisable avec tensorflow)
+  - *Text embedding trained on English Google News 130GB corpus.*
+  - Basé sur le modèle [Swivel](https://arxiv.org/abs/1602.02215)
 
 ### Raccourcis vers des tutoriels ou documentations de *spaCy*
 - [Tutoriel général de *spaCy*](https://course.spacy.io)
