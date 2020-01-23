@@ -1,0 +1,69 @@
+En tant qu'utilisateur anonyme, je veux voir une liste de sponsors, afin de pouvoir remercier tous les sponsors géniaux.
+En tant qu'utilisateur anonyme, je veux voir une liste de profils d'utilisateurs, afin de savoir qui participe à la conférence.
+En tant que coordonnateur de la formation, je veux envoyer un courriel à tous les formateurs en même temps à partir du site Web pour obtenir de l'information et des mises à jour, afin qu'il soit plus facile à utiliser.
+En tant que participant, je veux avoir une carte très claire où se trouvent les bâtiments et les salles, afin de pouvoir arriver en classe à l'heure.
+En tant que formateur, je veux éditer moi-même mon nœud de formation, afin que les coordinateurs de formation n'aient pas à faire de liens vers les diapositives.
+En tant que stagiaire, je veux limiter à une inscription par jour par utilisateur authentifié, afin de ne pas avoir d'espaces en double.
+En tant que coordonnateur de la formation, je veux avoir une vue d'administration qui aide à suivre l'état d'inscription de chaque participant afin que nous puissions voir s'il est présent, remboursé ou non présent.
+En tant que participant, je veux être ajouté à une liste d'attente de formation, afin qu'ils puissent être pris en considération pour un cours.
+En tant que stagiaire, je veux accepter les conditions d'annulation avec une case à cocher, afin qu'ils puissent être responsables...
+En tant que coordinateur de la formation, je veux lier une date limite d'annulation à n'importe quel processus d'inscription ou d'annulation, de sorte que nous ne perdions pas d'argent ou de places.
+En tant que stagiaire, je veux ajouter à "mon emploi du temps" s'il y a une fonction d'emploi du temps sur le site, afin qu'ils puissent planifier leur expérience de l'événement.
+En tant que stagiaire, je veux voir pour quelles formations je me suis inscrit, afin qu'ils puissent planifier leur expérience de l'événement.
+En tant que formateur, je veux avoir une vue qui est attachée à leur nœud de formation qui montre toutes les informations sur les participants Les formateurs peuvent voir toutes les présences en classe au début parce qu'il y a si peu de formateurs et qu'on leur fait confiance pour la confidentialité, afin que le coordinateur de formation n'ait pas à faire tout le travail pour obtenir les informations de connexion pour configurer un environnement.
+En tant que coordinateur de formation, je veux avoir une vue d'administration où toutes les informations sur les stagiaires sont affichées et peuvent être filtrées pour afficher une seule session de formation, afin que je puisse voir la WTF en cours.
+En tant qu'utilisateur anonyme, je veux avoir une page dédiée à chaque cours pour en savoir plus sur l'offre Les informations suivantes doivent être affichées : Logo, titre, formateurs, emplacement, éventuellement une vue de carte, date, heure, niveau de compétence, inscriptions restantes, lien pour s'inscrire au cours. Le chemin URL doit être SEO friendly /training/training/training-title, afin que je puisse choisir la bonne classe, ET le formateur peut tweeter et promouvoir leur classe.
+En tant qu'utilisateur anonyme, je veux que les options de formation soient clairement marquées pour les informations suivantes : jour et heure de la formation, titre, bref résumé, formateurs, niveau, nombre d'inscriptions, nombre d'inscriptions, inscriptions restantes, lieu de la formation, lien vers tous les détails de la formation, s'inscrire maintenant, afin que je puisse acheter la formation avec une page ET trouver leur classe sur une page.
+En tant qu'utilisateur anonyme, je veux avoir une page d'atterrissage de formation avec une section d'introduction et une liste de toutes les offres de formation et de promouvoir les appels de formation, de sorte que je puisse magasiner pour la formation tous avec une page et nous pouvons avoir un appel pour les formations de sélection.
+En tant qu'utilisateur anonyme, je veux avoir un lien sur la page d'accueil vers une liste d'options de formation, afin que je puisse suivre une formation.
+En tant qu'utilisateur anonyme, je veux savoir où se trouve le salon de codage et à quelle heure il est ouvert, afin de pouvoir coder avec mes amis.
+En tant qu'administrateur, je veux rembourser l'argent des commandites qui a été traité par bandes, afin que les gens puissent récupérer leur argent.
+En tant qu'utilisateur authentifié, je veux trouver un lien sur la page des commandites pour devenir un commanditaire de niveau 350 $, afin que je puisse payer et devenir un commanditaire.
+En tant qu'utilisateur anonyme, je veux voir la liste des participants associés à cette entreprise, afin de savoir qui de cet organisme parrain est présent.
+En tant qu'utilisateur authentifié, je veux m'identifier et payer pour un parrainage d'entreprise de $350, de sorte que je puisse facilement devenir un parrain à ce niveau sans avoir à interagir avec le personnel de badcamp pour obtenir un parrainage.
+En tant qu'administrateur, je veux créer et maintenir des sites, afin de pouvoir fournir des détails d'emplacement pour aider les utilisateurs à trouver ce qu'ils recherchent.
+En tant qu'utilisateur anonyme, je veux voir les détails du lieu, afin de me faire une idée de l'endroit et de voir les événements qui s'y déroulent.
+En tant qu'utilisateur anonyme, je veux voir une liste des sessions associées aux participants du sponsor, afin de savoir où je peux m'engager avec ce sponsor et où ils sont des leaders d'opinion.
+En tant qu'utilisateur authentifié, je veux voir une page de paiement pour payer mes parrainages individuels comme troisième étape du processus d'inscription afin de payer pour mon parrainage.
+En tant qu'administrateur, je veux assigner des commanditaires aux événements, aux formations et aux sommets afin qu'ils soient mis en vedette sur la page détaillée des commanditaires.
+En tant qu'utilisateur anonyme, je veux voir tous les événements, formations et sommets qu'un sponsor sponsor sponsorise afin de savoir où je peux m'engager avec ce sponsor et où ils sont des leaders d'opinion.
+En tant qu'utilisateur authentifié, je souhaite saisir des informations de paiement et faire débiter ma carte pour un parrainage individuel, de sorte que je puisse payer pour un parrainage individuel.
+En tant que sponsor, je veux lier les participants du camp BADC à ma page de parrainage, afin que je puisse montrer notre niveau de participation.
+En tant qu'utilisateur authentifié, je veux mettre à jour mon profil d'utilisateur, afin de pouvoir me connecter avec d'autres Drupalistes au BADCamp.
+En tant qu'utilisateur anonyme, je souhaite m'inscrire à la newsletter de BADCamp, afin de rester au courant des dernières communications concernant BADCamp.
+En tant qu'administrateur, je veux marquer les messages de mon blog pour consommation par Drupal Planet, afin qu'ils soient listés sur le blog Drupal Planet.
+En tant qu'administrateur, je veux créer des billets de blog, afin de pouvoir partager les dernières informations sur BADCamp avec le public.
+En tant qu'utilisateur anonyme, je veux lire le blog, afin de rester informé de toutes les dernières nouvelles de BADCamp.
+En tant que sponsor, je veux sponsoriser un sommet qui correspond à ma marque, afin de pouvoir me faire connaître auprès de clients potentiels et de vendre mes références Drupal.
+En tant que participant, je souhaite m'inscrire à un sommet afin de pouvoir réserver ma place au sommet.
+En tant que participant, je veux obtenir des indications détaillées pour me rendre au sommet, de sorte que je puisse m'y rendre facilement le jour de l'événement.
+En tant que participant, je veux voir à quels sommets je me suis inscrit, afin de confirmer ma présence et d'éviter de faire accidentellement une double réservation pour une formation ou un autre sommet.
+En tant que coordonnateur du sommet, je veux voir une liste des participants inscrits à mon sommet, afin de pouvoir communiquer avec mes participants par courriel avant l'événement.
+En tant que coordonnateur de sommet, je veux dresser la liste des renseignements de base sur mon sommet, afin de pouvoir informer les participants potentiels sur les raisons pour lesquelles ils devraient assister à mon sommet.
+En tant que coordonnateur du sommet, je veux dresser la liste des commanditaires de mon sommet, afin de m'assurer que les commanditaires se sentent récompensés et qu'ils seront intéressés à commanditer dans les années à venir.
+En tant que coordonnateur du sommet, je veux dresser la liste de l'ordre du jour de mon sommet afin d'attirer les participants et de donner une rétroaction positive aux présentateurs pour les encourager à participer.
+En tant qu'utilisateur anonyme, je veux voir combien de places sont encore disponibles pour le sommet, afin de m'assurer de m'inscrire à temps pour réserver ma place.
+En tant qu'utilisateur anonyme, je veux voir des détails précis sur les sommets, afin d'en apprendre davantage sur le sommet qui m'intéresse pour voir s'il correspond à mes intérêts, m'inscrire à l'événement et obtenir une journée de connaissances pour m'aider à me rendre sur les lieux.
+En tant qu'utilisateur anonyme, je veux voir une liste de tous les sommets, afin de pouvoir déterminer le sommet auquel je pourrais être intéressé et auquel je pourrais assister.
+En tant qu'utilisateur anonyme, je veux en savoir plus sur les niveaux de parrainage, afin de pouvoir déterminer le bon niveau de parrainage pour mon organisation.
+En tant qu'utilisateur authentifié, je veux utiliser un éditeur WYSIWYG pour tous les contenus longs, de sorte que je n'ai pas besoin de connaître le HTML pour mettre à jour mon contenu.
+En tant que commanditaire, je veux établir un lien vers mon profil de commanditaire à partir de mes offres d'emploi, afin que les recrues puissent en apprendre davantage sur mon organisation.
+En tant qu'utilisateur anonyme, je souhaite en savoir plus sur l'affichage d'offres d'emploi en tant que parrain et contacter la personne parrainée, afin d'avoir la possibilité d'afficher mon offre d'emploi sur le site du camp BADC.
+En tant que sponsor, je veux afficher un poste, afin de pouvoir embaucher les meilleurs talents de Drupal.
+En tant qu'utilisateur authentifié, je veux voir le tableau d'offres d'emploi, de sorte que je puisse chercher un concert Drupal intéressant !
+En tant qu'administrateur, je veux assigner une salle à un créneau horaire et à un lieu, de sorte que je puisse remplir l'horaire.
+En tant qu'utilisateur anonyme, je veux voir l'horaire afin de pouvoir planifier ma journée et savoir où aller !
+En tant qu'utilisateur anonyme, je veux que la liste finale des sessions soit approuvée, afin que je puisse voir ce qui se passe au camp BADCamp .
+En tant qu'administrateur, je veux approuver en bloc les sessions acceptées, afin de gagner du temps.
+En tant qu'administrateur, je veux marquer une session comme acceptée, de sorte que je puisse remplir l'agenda.
+En tant qu'utilisateur anonyme, je veux recevoir une notification lorsque des sessions ont été évaluées, afin de savoir si j'ai été accepté ou refusé.
+En tant qu'utilisateur anonyme, je veux recevoir une notification lorsque je soumets une session, afin de savoir que ma session s'est bien déroulée.
+En tant qu'utilisateur authentifié, je veux modifier ma session, de sorte que si je fais une erreur, je peux la corriger.
+En tant qu'utilisateur anonyme, je souhaite m'inscrire pour parler à BADCamp, afin de soumettre une session.
+En tant qu'utilisateur authentifié, je veux soumettre une session à BADCAMP, afin que je puisse faire évaluer ma session.
+En tant que sponsor, je souhaite personnaliser ma page de sponsoring, afin de pouvoir promouvoir ma marque.
+En tant qu'utilisateur anonyme, je veux voir une liste de tous les sommets qui incluent quand ils le sont, afin de pouvoir déterminer à quel sommet je veux assister.
+En tant qu'utilisateur authentifié, je veux qu'on m'offre plusieurs choix de parrainage individuel sur la deuxième page d'inscription, afin que je puisse être impressionnant et soutenir financièrement le camp.
+En tant qu'utilisateur anonyme, je veux trouver facilement un lien dans le menu qui mène au formulaire d'inscription, afin de pouvoir m'inscrire facilement au camp.
+En tant qu'utilisateur anonyme, je veux remplir un formulaire d'inscription afin de pouvoir m'inscrire au camp et obtenir un compte sur le site.
+En tant qu'utilisateur anonyme, je veux trouver des informations de session, de sorte que je puisse aller à une session.

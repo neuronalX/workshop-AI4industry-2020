@@ -1,0 +1,58 @@
+En tant qu'utilisateur public, je souhaite effectuer une recherche d'informations, afin d'obtenir des informations accessibles au public concernant les propriétés, les services du comté, les processus et autres informations générales.
+En tant que candidat potentiel, je veux faire des recherches et sélectionner un service, afin de pouvoir trouver le service et/ou le type d'application approprié à lancer via le portail en ligne.
+En tant que demandeur, je veux demander de l'aide pour présenter une demande préalable, afin de recevoir une réponse à une demande de rencontre ou de renseignements découlant de l'aide préalable à la présentation d'une demande.
+En tant que client, je veux créer un compte d'utilisateur sur le portail client, afin de pouvoir me connecter au portail client et effectuer des transactions qui nécessitent d'abord une authentification utilisateur.
+En tant que demandeur, je veux soumettre une demande afin de pouvoir fournir mes renseignements, mes plans ou mes documents pour amorcer une transaction avec le comté.
+En tant que demandeur, je veux soumettre des documents à l'appui de ma demande, afin de pouvoir satisfaire aux exigences en matière de documentation.
+En tant que demandeur, je veux payer des frais afin de pouvoir payer les frais impayés associés au service demandé ou reçu du comté.
+En tant que demandeur, je veux vérifier l'état d'une transaction afin de comprendre où en est le processus d'approvisionnement de mon service, comme les renseignements sur les niveaux de service, les frais, l'examen du plan, le permis ou les résultats des inspections.
+En tant que demandeur, je souhaite modifier ma demande afin de pouvoir modifier avec succès les renseignements figurant sur une demande.
+En tant que membre du personnel, je veux effectuer un examen d'intégralité, afin de pouvoir valider quand une demande est complète et admissible à un examen technique supplémentaire.
+En tant que membre du personnel, je veux enregistrer une note interne afin de pouvoir partager l'information avec les autres membres du personnel qui collaborent au dossier.
+En tant que membre du personnel, je veux assigner une demande d'examen détaillé, afin de pouvoir examiner la conformité de la demande et l'approuver ou la refuser par la suite.
+En tant que membre du personnel, je veux appliquer une retenue, afin de pouvoir empêcher la progression dans le flux de travail ou d'autres actions dans le système jusqu'à ce que le problème soit résolu.
+En tant que membre du personnel, je souhaite supprimer une retenue, afin de pouvoir progresser dans le flux de travail ou dans d'autres actions du système maintenant que le problème a été résolu.
+En tant que membre du personnel, je veux envoyer une réponse officielle au demandeur, afin de pouvoir m'acquitter de mes responsabilités en matière de communication et de tenue de dossiers.
+En tant que membre du personnel, je veux faire le suivi des ébauches de propositions, afin de pouvoir conserver l'historique des ébauches de propositions soumises par le demandeur.
+En tant que membre du personnel, je veux gérer les offres approuvées afin d'assurer la conformité et la satisfaction du soumissionnaire à l'avenir.
+En tant que membre du personnel, je veux gérer les ordonnances, de sorte que je puisse maintenir des informations précises sur les ordonnances dans le système.
+En tant que membre du personnel, je veux planifier une réunion afin de pouvoir réunir les parties requises à une date et à une heure précises pour régler un problème.
+En tant que membre du personnel, je veux indiquer qu'il s'agit d'une demande ayant le statut de mesure finale. Pour que je puisse le finir.
+En tant que membre du personnel de planification, je veux effectuer et suivre les modifications au plan et les études de planification afin de pouvoir enregistrer les travaux en cours, les résultats et l'information géoréférencée relative au(x) plan(s).
+En tant que membre du personnel de planification, je veux générer des rapports liés à la planification, afin de pouvoir accéder, analyser et/ou exporter les informations nécessaires dans le format demandé.
+En tant que membre du personnel de planification, je veux évaluer la cohérence avec le plan d'ensemble, de sorte que je puisse terminer l'examen requis d'un ensemble de plans ou d'une demande.
+En tant que membre du personnel, je souhaite effectuer un examen du personnel, afin de pouvoir valider la conformité d'une demande avec l'ordonnance sur le zonage et l'approbation/le refus de la demande en conséquence.
+En tant que membre du personnel de zonage, je veux traiter les demandes de renseignements sur le zonage afin de pouvoir saisir ma réponse à la demande dans le système et d'envoyer une communication du système au demandeur.
+En tant que membre du personnel de zonage, je veux délivrer les permis de zonage afin de pouvoir répondre à la demande de service d'un requérant qui s'est avéré admissible et conforme à l'ordonnance de zonage.
+En tant que membre du personnel, je veux élaborer un rapport du personnel, afin de pouvoir le publier et le distribuer conformément aux règles administratives.
+En tant que membre du personnel, je veux gérer les calendriers d'audience afin de pouvoir suivre les activités liées à l'audience et les dates d'échéance.
+En tant que membre du personnel, je veux assigner une date d'audience afin de pouvoir présenter la demande à l'organisme directeur approprié dans les délais prescrits par les règles et procédures pertinentes du comté.
+En tant que membre du personnel, je veux gérer les affidavits afin de m'assurer du respect des exigences avant l'audience.
+En tant que demandeur, je veux satisfaire aux exigences de l'audience afin de m'assurer que toutes les exigences préalables à l'audience sont satisfaites à temps pour l'audience.
+En tant que membre du personnel, je veux me préparer et appuyer l'exécution de l'audience afin de m'assurer que toutes les exigences préalables à l'audience sont satisfaites et que le personnel et le demandeur sont prêts pour l'audience.
+En tant que membre du personnel, je veux saisir une décision d'audience afin de pouvoir appliquer le système.
+En tant que membre du personnel, je veux traiter les appels afin de pouvoir suivre les résultats et en enregistrer l'impact sur les dossiers pertinents.
+En tant que membre du personnel chargé de l'examen des plans, je veux assigner des plans pour l'examen, afin de m'assurer que les plans ont été assignés à l'examinateur de plans approprié.
+En tant que superviseur du personnel chargé de l'examen des plans, je veux gérer la charge de travail du réviseur de plans afin de pouvoir surveiller et ajuster efficacement la charge de travail au besoin et m'assurer que les niveaux de service sont respectés.
+En tant que demandeur, je veux demander une réunion d'examen du plan, afin de pouvoir rencontrer le personnel chargé de l'examen du plan au sujet de l'examen du plan.
+En tant que membre du personnel chargé de l'examen du plan, je veux mener à bien une réunion d'examen du plan avec le demandeur et enregistrer le résultat, afin de pouvoir l'écouter à nouveau.
+En tant que membre du personnel chargé de l'examen des plans, je veux examiner les plans afin d'en vérifier la conformité et d'approuver ou d'omettre ou de refuser les plans et de consigner toute condition, autorisation ou correction que je dois obtenir du demandeur.
+En tant que demandeur, je veux soumettre de nouveau des plans afin de pouvoir examiner les plans révisés. 
+En tant que membre du personnel chargé de l'examen du plan, je veux examiner les modifications au Code soumises par le demandeur, afin de pouvoir examiner la demande et, si elle est approuvée, l'associer au projet approprié.
+En tant que membre du personnel chargé de l'examen des plans, je veux suivre l'achèvement des examens requis des plans, afin de m'assurer que toutes les tâches d'examen des plans sont terminées, que les résultats ont été envoyés au demandeur et que toutes les étapes en aval sont amorcées, comme un examen final ou un paiement pour la délivrance du permis.
+En tant que membre du personnel de mise en valeur, je veux délivrer un permis de mise en valeur, de sorte que je puisse accorder la demande au demandeur de commencer à travailler.
+En tant que membre du personnel, je veux gérer les obligations, de sorte que je puisse suivre et gérer les obligations tout au long du cycle de vie du projet jusqu'à leur libération.
+En tant que demandeur, je veux terminer le projet d'aménagement de l'immeuble afin de pouvoir recevoir tout cautionnement affiché et/ou obtenir une occupation.
+En tant que demandeur, je veux terminer le projet d'aménagement de l'immeuble afin de pouvoir recevoir tout cautionnement affiché et/ou obtenir une occupation.
+En tant que client, je souhaite demander une inspection, afin qu'un inspecteur du comté soit chargé d'effectuer une inspection de mon projet.
+En tant que membre du personnel d'inspection, je veux créer une inspection, de sorte que je puisse planifier et assigner l'inspection.
+En tant que superviseur du personnel d'inspection, je veux assigner les inspections afin de m'assurer que l'inspecteur approprié reçoit le travail.
+En tant que superviseur de l'inspection, je veux gérer la charge de travail des inspecteurs afin de pouvoir répondre aux exigences en matière de niveau de service et de qualité.
+En tant qu'inspecteur, je veux effectuer des inspections afin de valider la conformité du client au code et aux règlements et de fournir les résultats de l'inspection au client.
+En tant que membre du personnel chargé de l'application de la loi, je veux délivrer un procès-verbal de violation afin de pouvoir fournir une communication officielle à la partie responsable.
+En tant que membre du personnel, je souhaite rechercher des informations sur la propriété, afin d'obtenir tous les propriétaires, permis et demandes actuels et historiques associés.
+En tant que membre du personnel, j'ai besoin d'être avisé lorsque les attributs géospatiaux changent, afin de m'assurer que j'examine le permis/demande en fonction des données les plus récentes et des normes appropriées.
+En tant que membre du personnel du comté, je veux créer une requête/un rapport personnalisé en dehors de la fonctionnalité commune de requête/rapport, afin de pouvoir répondre à une demande.
+En tant que membre du personnel, je veux créer chaque unité de copropriété, afin de pouvoir l'associer à la parcelle et à l'adresse de l'enfant une fois que les condominiums seront enregistrés dans le système.
+En tant que membre de l'équipe technique, je veux mettre à jour la gestion des biens SIG, afin de pouvoir mettre à jour avec succès l'épinglette transactionnelle de la parcelle pour référencer la couche SIG où l'épinglette de la parcelle fractionnée ou fusionnée existe.
+En tant que membre du personnel, je veux envoyer ou afficher les citations et les amendes, afin de pouvoir envoyer avec succès le document d'avis de violation au propriétaire foncier et consigner les renseignements concernant l'action.

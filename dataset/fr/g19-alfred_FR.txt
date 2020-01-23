@@ -1,0 +1,138 @@
+En tant que personne âgée, je veux savoir exactement ce qu'ALFRED fait de mes données personnelles, et ne les partager qu'avec mon autorisation spécifique. 
+En tant que personne âgée, je souhaite recevoir des informations d'ALFRED par le biais de la technologie vocale. 
+En tant que PersonneAncienne, je veux utiliser seulement des boutons bien visibles.
+En tant que PersonneAncienne, je veux utiliser ALFRED autant que possible avec l'interaction vocale.
+En tant que personne âgée, je veux toujours garder le contrôle sur les activités d'ALFRED. 
+En tant que personne âgée, je veux pouvoir gérer mes paramètres de confidentialité et de données. 
+En tant que personne âgée, je veux que tout soit préinstallé, afin de ne pas avoir à configurer ALFRED par moi-même.
+En tant que personne âgée, je veux avoir un petit appareil ALFRED qui soit portable et facile à transporter avec moi.
+En tant que personne âgée, je veux avoir ALFRED sur tous mes ordinateurs, tablettes et téléphone.
+En tant que personne âgée, je veux avoir ALFRED sur un bracelet ou un collier, pour que je puisse toujours le porter avec moi. 
+En tant que personne âgée, je veux avoir des instructions claires et un service après-vente qui me guident si j'ai de la difficulté à utiliser ALFRED.
+En tant que personne âgée, je veux avoir un appareil ALFRED qui parle très lentement et clairement.
+En tant que personne âgée, je veux avoir un appareil ALFRED qui ne réagit qu'à moi.
+En tant que PersonneAncienne, je veux avoir un appareil ALFRED qui m'écoute seulement quand je le demande. 
+En tant que personne âgée, je veux avoir une conversation d'introduction avec ALFRED, pour que je puisse tout apprendre sur lui et lui sur moi. 
+En tant que personne âgée, je veux acheter ALFRED dans un magasin pour personnes âgées avec un service clientèle spécial. 
+En tant que personne âgée, je veux acheter ALFRED à bas prix. 
+En tant que PersonneAncienne, je veux recevoir un soutien visuel, surtout quand je regarde une liste, une carte ou un agenda.
+En tant que personne âgée, je veux utiliser ALFRED pour payer de petites sommes.
+En tant que personne âgée, je veux avoir une très bonne batterie pour ALFRED afin de pouvoir le garder toute la journée.
+En tant que personne âgée, je veux avoir un appareil ALFRED qui m'informe d'une pile faible lorsque je quitte la maison. 
+En tant que personne âgée, je veux avoir un appareil ALFRED qui peut être facilement adapté pour les utilisateurs qui ont des problèmes visuels ou auditifs.
+En tant que personne âgée, je veux avoir un appareil ALFRED qui peut être facilement adapté pour les utilisateurs qui ont des problèmes visuels. 
+En tant que personne âgée, je veux avoir un appareil ALFRED qui peut être facilement adapté pour les utilisateurs qui ont des problèmes auditifs. 
+En tant que PersonneAncienne, je veux avoir un dispositif ALFRED qui répète la dernière phrase. 
+En tant que PersonneAncienne, je veux être capable de zoomer dans le contenu visuel. 
+En tant que personne âgée, je veux avoir un appareil ALFRED qui répond à l'évolution de la demande des utilisateurs en offrant de nouvelles applications dans la plate-forme ALFREDO.
+En tant que personne âgée, je veux avoir un appareil ALFRED qui m'aide à communiquer avec mes amis et ma famille. 
+En tant que PersonneAncienne, je veux avoir une conversation vidéo avec les autres. 
+En tant que soignant médical, je veux avoir un visiophone. 
+En tant que personne âgée, je veux avoir un appareil AFLRED qui encourage ses utilisateurs à une interaction réelle entre les humains et pas seulement avec les outils TIC. 
+En tant que personne âgée, je veux avoir un appareil ALFRED qui me fournit des informations sur les applications existantes qui correspondent à mes intérêts. 
+En tant que personne âgée, je veux pouvoir personnaliser mes préférences dans les différentes fonctionnalités de la solution.
+En tant que soignant médical, je veux avoir une unité ALFRED simple qui est extensible dans ses fonctions. 
+En tant que personne âgée, je veux que mes données soient stockées directement sur le téléphone.
+En tant que personne âgée, je veux recevoir un réveil d'ALFRED le matin pour vérifier si je vais bien.
+En tant que personne âgée, je veux recevoir un soutien rythmique jour et nuit avec des rappels d'agenda. 
+En tant que personne âgée, je veux recevoir de l'aide pour utiliser les transports publics. 
+En tant que personne âgée, je veux utiliser ALFRED pour la navigation. 
+En tant que personne âgée, je veux utiliser ALFRED pour des promenades touristiques et des indications avec des explications sur des sites historiques et culturels. 
+En tant que personne âgée, je veux recevoir de l'aide pour avoir un taxi à l'heure. 
+En tant que personne âgée, je veux utiliser ALFRED pour voir qui se tient à ma porte et ouvre la porte. 
+En tant que personne âgée, je veux utiliser ALFRED pour décrocher le téléphone plus tôt quand je suis à la maison. 
+En tant que personne âgée, je veux utiliser ALFRED pour allumer/éteindre les lumières. 
+En tant que personne âgée, je veux utiliser ALFRED pour contrôler le chauffage. 
+En tant que personne âgée, je veux utiliser ALFRED pour contrôler la télévision et la radio. 
+En tant que personne âgée, je veux utiliser ALFRED pour regarder des films. 
+En tant que personne âgée, je veux utiliser ALFRED pour entendre les nouvelles. 
+En tant que personne âgée, je veux utiliser ALFRED pour contacter de l'aide en cas d'urgence. 
+En tant que soignant médical, je veux utiliser les appels vidéo en cas d'urgence. 
+En tant que personne âgée, je veux qu'ALFRED communique avec l'aidant naturel le plus proche lorsque je demande une aide urgente à ALFRED. 
+En tant que personne âgée, je veux recevoir un message lorsque mon infirmière en soins à domicile est en route. 
+En tant que personne âgée, je souhaite recevoir un rappel médical d'ALFRED. 
+En tant que personne âgée, je veux pouvoir voir si j'ai déjà pris mes pilules, afin d'éviter une surdose. 
+En tant que soignant médical, je veux pouvoir voir si la patiente a pris ses médicaments. 
+En tant que personne âgée, je veux utiliser ALFRED pour faire mon épicerie. 
+En tant que PersonneAncienne, je veux utiliser ALFRED pour envoyer des messages. 
+En tant que personne âgée, je veux avoir ALFRED pour détecter les chutes et envoyer une urgence à un contact spécifique. 
+En tant que personne âgée, je veux avoir ALFRED pour suggérer des recettes saines. 
+En tant que PersonneAncienne, je veux qu'ALFRED pose des questions spontanées mais il serait préférable de le programmer à certains moments de la journée. 
+En tant que personne âgée, je veux avoir ALFRED pour initier des questions, mais cela devrait être dans les domaines qui m'intéressent comme le cinéma, les expositions, la cuisine. 
+En tant que personne âgée, je veux pouvoir appeler quelqu'un avec ALFRED. 
+En tant que personne âgée, je veux activer le mode d'interaction vocale d'ALFRED en appuyant sur un bouton spécifique. 
+En tant que personne âgée, je veux utiliser ALFRED pour maintenir ma liste de contacts dans mon téléphone. 
+En tant que personne âgée, je veux utiliser ALFRED pour gérer mon agenda. 
+En tant que personne âgée, je veux insérer mes réunions dans ALFRED en utilisant la parole. 
+En tant que personne âgée, je veux recevoir des rappels sur mes rendez-vous. 
+En tant que personne âgée, je veux recevoir un rappel d'ALFRED sur tout ce que je dois apporter avec moi lorsque je quitte la maison. 
+En tant qu'aidante sociale, je veux qu'ALFRED me rappelle les choses que je dois apporter à la personne dont je m'occupe. 
+En tant que personne âgée, je veux utiliser ALFRED pour créer des groupes sociaux de personnes atteintes de maladies similaires. 
+En tant que personne âgée, je veux utiliser ALFRED pour contacter des personnes de mon propre cercle. 
+En tant que personne âgée, je veux utiliser ALFRED pour me renseigner sur les expositions d'art ou un musée. 
+En tant que personne âgée, je veux utiliser ALFRED pour me renseigner sur toutes les activités sociales qui sont organisées dans mon quartier. 
+En tant que personne âgée, je veux utiliser ALFRED pour obtenir une invitation personnalisée à un événement social, afin qu'il motive davantage à y aller. 
+En tant que personne âgée, je veux utiliser ALFRED pour naviguer vers un événement ou un concert et m'aider quand je suis perdu. 
+En tant que personne âgée, je veux utiliser ALFRED pour m'aider à naviguer malgré mes légers troubles cognitifs. 
+En tant que personne âgée, je veux être capable de payer de petites sommes. 
+En tant que personne âgée, je veux utiliser ALFRED pour organiser une réunion avec un groupe d'amis à un certain endroit. 
+En tant que personne âgée, je veux jouer à des jeux en ligne avec d'autres utilisateurs. 
+En tant que personne âgée, j'aimerais obtenir des suggestions pour des cours de sport dans mon quartier. 
+En tant que personne âgée, je veux avoir ALFRED pour me permettre d'avoir également des contacts face à face, afin que je n'aie pas seulement des contacts virtuels sur ALFRED. 
+En tant que personne âgée, je veux m'aider à contrôler mon poids corporel. 
+En tant que personne âgée, je veux juste appuyer sur un bouton pour appeler mon soignant. 
+En tant que personne âgée, je veux décider qui a accès à mes données vitales. 
+En tant que soignant médical, je veux être sûr que l'utilisateur peut décider qui a accès à ses données. 
+En tant que personne âgée, je veux avoir des vêtements portables avec des capteurs intégrés pour paraître bien et ne pas être stigmatisant. 
+En tant que personne âgée, je veux voir mes paramètres vitaux moi-même au téléphone. 
+En tant que personne âgée, je veux avoir la chemise ALFRED pour être belle. 
+En tant que personne âgée, je veux que la chemise ALFRED ne soit pas stigmatisante. 
+En tant que soignant médical, je veux avoir ALFRED pour être en mesure de déterminer la tension artérielle de l'utilisateur. 
+En tant que soignant médical, je veux avoir ALFRED pour pouvoir déterminer la température corporelle de l'utilisateur. 
+En tant que soignant médical, je veux avoir ALFRED pour pouvoir déterminer la fréquence cardiaque de l'utilisateur. 
+En tant que soignant médical, je veux avoir ALFRED pour pouvoir déterminer la fréquence respiratoire de l'utilisateur. 
+En tant que fournisseur de soins médicaux, je veux avoir une rétroaction sur le niveau d'activité de l'utilisateur. 
+En tant que soignant médical, je veux localiser l'utilisateur ALFRED. 
+En tant que soignant social, je veux avoir ALFRED pour être capable de reconnaître la douleur et/ou le stress en utilisant des capteurs de conduction cutanée. 
+En tant que soignant social, je veux qu'un compteur de pas soit inclus dans ALFRED. 
+En tant que personne âgée, je veux avoir ALFRED pour me donner des objectifs et des missions qui m'encouragent à faire de nouvelles activités et de nouveaux exercices et à sortir. 
+En tant que personne âgée, je veux qu'ALFRED fixe des limites dans la durée des jeux car je m'ennuie facilement. 
+En tant que personne âgée, je veux jouer à des jeux où je peux utiliser mon imagination. 
+En tant que personne âgée, je veux faire des exercices guidés avec ALFRED et ALFRED devrait aussi utiliser des capteurs pour capturer des données de santé pendant que je fais des exercices. 
+En tant que personne âgée, je veux avoir des jeux qui incluent mes sports préférés. 
+En tant que personne âgée, je veux recevoir des suggestions sur les cours de sport locaux. 
+En tant que personne âgée, je veux avoir ALFRED pour me rappeler de garder une bonne posture corporelle. 
+En tant que soignant médical, je veux avoir ALFRED pour rappeler aux gens de faire de l'exercice régulièrement. 
+En tant que personne âgée, je veux recevoir des conseils spécifiques sur la façon de réduire mes problèmes de santé sans médicaments. 
+En tant que personne âgée, je veux avoir des jeux qui me montrent à quel point ma mémoire et ma santé physique sont bonnes. 
+En tant que PersonneAncienne, je veux avoir un entraînement pour des Groupes musculaires spécifiques. 
+En tant que soignant médical, je veux avoir ALFRED pour offrir un entraînement pour des groupes musculaires spécifiques. 
+En tant que personne âgée, je veux être capable de voir ma performance d'entraînement. 
+En tant que personne âgée, je veux avoir ALFRED pour m'aider à me motiver pendant la semaine à faire de l'exercice qui devrait changer quotidiennement, comme le changement constant me motive. 
+En tant que soignant, je souhaite qu'ALFRED me propose des jeux qui nécessitent la combinaison d'exercices physiques et mentaux, tels que des exercices de mouvements opposés des bras et des jambes. 
+En tant que personne âgée, je veux jouer à des jeux qui exigent la combinaison de l'exercice mental et physique, comme les exercices de mouvement opposé des bras et des jambes. 
+En tant que soignant médical, je veux contrôler si l'utilisateur fait l'exercice correctement. 
+En tant que soignant médical, je veux avoir un résumé régulier sur la quantité d'exercice effectuée par l'utilisateur. 
+En tant qu'aide-soignante informelle, je veux avoir un jeu auquel l'aidante pourrait jouer avec l'usager, afin qu'il puisse surveiller l'état de santé de l'usager tout en s'amusant un peu. 
+En tant que soignant, je souhaite qu'ALFRED propose une formation qui favorise la réflexion complexe. 
+En tant que soignant médical, je veux donner une rétroaction corrective si les exercices sont mal exécutés, trop ou de toute autre manière nuisible à l'utilisateur. 
+En tant que développeur, je veux présenter mon application au plus grand nombre de personnes possible. 
+En tant que développeur, je veux que la comptabilité soit aussi simple et claire que possible. 
+En tant que développeur, je veux créer et maintenir facilement mes applications sur le marché. 
+En tant que développeur, je veux permettre aux clients de fournir des commentaires sur mon application et j'ai besoin d'un moyen facile de voir ces commentaires. 
+En tant que développeur, je veux avoir un moyen facile de gérer la modalité de tarification de mes applications. 
+En tant que développeur, je veux que l'API soit bien définie et bien documentée. 
+En tant que développeur, je souhaite obtenir du support pour le développement d'applications. 
+En tant que développeur, je veux connaître les frais facturés par le fournisseur du marché pour l'utilisation de la plate-forme. 
+En tant que développeur, je veux être averti dès que possible lorsque l'état de l'une de mes applications change. 
+En tant que développeur, je veux avoir des informations détaillées sur ce qui s'est passé lorsque mon application plante sur le périphérique de l'utilisateur. 
+En tant que développeur, je veux présenter mon application de plusieurs façons. 
+En tant que développeur, je veux être capable de concevoir mon application par moi-même - bien qu'il y aura quelques règles que je devrai respecter. 
+En tant que développeur, je veux avoir un moyen facile de définir les questions que l'utilisateur peut poser et exécuter. 
+En tant que développeur, je veux avoir mon application pour avoir accès à plusieurs fonctionnalités du système d'exploitation. 
+En tant que développeur, je veux que les composants de l'API soient de haut niveau pour que je n'aie pas à m'occuper de leurs détails. 
+En tant que développeur, je veux avoir un moyen facile de lire les données des capteurs de santé que l'utilisateur porte. 
+En tant que développeur de serious games, je veux pouvoir prendre le contrôle de certaines fonctions pour offrir l'expérience utilisateur souhaitée. 
+En tant que développeur, je veux fournir un moyen facile de gérer les paramètres utilisateur. 
+En tant que développeur, je veux avoir l'API ALFRED pour réduire le travail nécessaire pour atteindre mes objectifs. 
+En tant que développeur, je veux avoir l'API ALFRED pour réduire le travail nécessaire pour atteindre mes objectifs.

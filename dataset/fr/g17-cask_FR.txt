@@ -1,0 +1,64 @@
+En tant que développeur d'application, je veux inclure le code d'un type d'ensemble de données dans mon artefact d'application et créer un ensemble de données de ce type lors du déploiement de l'application.
+En tant que développeur d'application, je veux déployer une nouvelle version d'un type d'ensemble de données dans le cadre du déploiement d'une nouvelle version de l'application qui l'inclut et je m'attends à ce que toutes les instances d'ensemble de données de ce type qui ont été créées dans le cadre du déploiement de l'application commencent en utilisant le nouveau code.
+En tant que développeur d'application, je veux déployer une nouvelle version d'un type d'ensemble de données dans le cadre d'un artefact d'application, sans affecter les autres ensembles de données de ce type.
+En tant que développeur d'application, je veux explorer une instance d'ensemble de données d'un type qui a été déployé dans le cadre d'une application.
+En tant que développeur d'application, je veux m'assurer que lorsque je déploie un artefact sans créer une application, cela ne créera aucun type ou instance d'ensemble de données.
+En tant que développeur d'application, je veux partager un type d'ensemble de données entre plusieurs applications qui incluent le code du type d'ensemble de données dans leurs artefacts.
+En tant que développeur d'application, je veux m'assurer que lorsque je déploie une nouvelle version d'une application qui inclut un type d'ensemble de données partagé que toutes les instances d'ensemble de données créées par cette application commencent à utiliser le nouveau code mais que toutes les instances d'ensemble de données créées par d'autres applications restent inchangés.
+En tant que développeur d'application, je veux m'assurer que lorsque je déploie une nouvelle version d'une application qui inclut une ancienne version d'un type d'ensemble de données déployé par une autre application et je m'attends à ce que les instances d'ensemble de données créées par cette application utilisent le code du type d'ensemble de données inclus dans cette application.
+En tant que développeur d'application, je veux m'assurer que lorsque je déploie une nouvelle version d'une application qui inclut une version différente d'un type d'ensemble de données déployé par une autre application et que cette application partage une instance d'ensemble de données de ce type avec l'autre application, le déploiement échoue avec un conflit de version erreur. 
+En tant que développeur d'application, je veux partager un type d'ensemble de données que j'avais précédemment déployé dans le cadre d'une application.
+En tant que développeur d'ensemble de données, je veux déployer un type d'ensemble de données indépendant de toute application et permettre aux applications de créer et d'utiliser des instances d'ensemble de données de ce type.
+En tant que développeur d'ensemble de données, je veux avoir l'option de forcer les applications à avoir le code de l'ensemble de données injecté au moment de l'exécution.
+En tant que développeur d'ensemble de données, je veux avoir un archétype qui m'aide à empaqueter mon type d'ensemble de données correctement.
+En tant que développeur d'ensemble de données, je veux séparer l'interface de l'implémentation d'un type d'ensemble de données.
+En tant que développeur d'application, je veux seulement dépendre de l'interface d'un type d'ensemble de données dans mon application et que le système injecte l'implémentation au moment de l'exécution.
+En tant que développeur d'application, je veux écrire des tests unitaires pour une application qui dépend de l'interface d'un type de jeu de données.
+En tant que développeur d'ensemble de données, je veux assigner des versions explicites au code d'un type d'ensemble de données.
+En tant que développeur d'ensemble de données, je veux déployer une nouvelle version d'un type d'ensemble de données sans affecter les instances d'ensemble de données de ce type.
+En tant que développeur d'application, je veux créer une instance de jeu de données avec une version spécifique d'un type de jeu de données.
+En tant que développeur d'ensemble de données, je veux explorer une instance d'ensemble de données créée à partir d'un type d'ensemble de données qui a été déployé par lui-même.
+En tant que développeur d'ensemble de données, je veux supprimer les versions périmées d'un type d'ensemble de données et je m'attends à ce que cela échoue s'il y a des instances d'ensemble de données avec cette version du type.
+En tant que développeur d'ensemble de données, je veux lister toutes les instances d'ensemble de données qui utilisent un type d'ensemble de données ou une version spécifique d'un type.
+En tant que scientifique des données, je veux être capable de créer une instance d'ensemble de données d'un type d'ensemble de données existant sans écrire de code.
+En tant que scientifique des données, je veux être capable de mettre à jour une instance d'un ensemble de données vers une nouvelle version de son code.
+En tant qu'utilisateur d'hydrateur, je veux créer un pipeline qui lit ou écrit une instance de jeu de données existante.
+En tant qu'utilisateur d'hydrateur, je veux créer un pipeline qui lit ou écrit une nouvelle instance de jeu de données et je veux créer cette instance de jeu de données dans le cadre de la création de pipeline.
+En tant qu'utilisateur d'hydrator, je veux spécifier une version explicite des types d'ensembles de données des instances d'ensembles de données créées par mon pipeline et je m'attends à ce que la création d'un pipeline échoue si cela entraîne une mise à niveau incompatible d'une instance d'ensemble de données existante qui est partagée avec les autres applications ou pipelines.
+En tant qu'utilisateur d'hydratant, je veux explorer les ensembles de données créés par mon pipeline.
+En tant qu'utilisateur d'hydrateur, je veux m'assurer que toutes les instances d'ensembles de données créées par les applications sont disponibles comme puits et sources pour les pipelines.
+En tant que développeur d'application, je veux m'assurer que toutes les instances d'ensemble de données créées par les pipelines Hydrator sont accessibles à l'application.
+En tant que développeur de plugin, je veux inclure le code d'un type d'ensemble de données dans l'artefact du plugin, de sorte que lorsqu'un pipeline utilisant ce plugin est créé, une instance d'ensemble de données de ce type est créée et il est explorable et disponible aux applications.
+En tant que développeur de plugin, je veux utiliser un type de jeu de données personnalisé qui a été déployé indépendamment ou dans le cadre d'une application à l'intérieur du plugin. 
+En tant que développeur de plugin, je veux mettre à jour le code d'un type de jeu de données utilisé par une instance de jeu de données créée par ce plugin lorsque je déploie une nouvelle version du plugin et mettre à jour le pipeline pour utiliser cette version.
+En tant que développeur de pipeline, je veux mettre à niveau une instance d'ensemble de données vers une version plus récente du code après la création du pipeline.
+En tant que développeur d'ensemble de données, je veux avoir l'option d'implémenter une étape de mise à niveau pour quand une instance d'ensemble de données est mise à niveau vers une nouvelle version du type d'ensemble de données.
+En tant que développeur d'ensemble de données, je veux avoir un moyen de rejeter une mise à niveau d'une instance d'ensemble de données vers une version plus récente de ce type si la mise à niveau n'est pas compatible.
+En tant que développeur d'ensemble de données, je veux avoir la possibilité d'implémenter une procédure de migration qui peut être exécutée après une mise à niveau d'une instance d'ensemble de données vers une nouvelle version du même type. 
+En tant que développeur, je veux prendre un ensemble de données hors ligne, afin de pouvoir effectuer une procédure de maintenance ou de migration de longue haleine.
+En tant que développeur de jeux de données, je souhaite implémenter des opérations administratives personnalisées telles que le "compactage" ou le "rééquilibrage" qui ne sont pas communes à tous les types de jeux de données.
+En tant que développeur d'applications, je veux effectuer des opérations d'administration personnalisées sur les instances d'un ensemble de données de mon application et de l'interface CLI et REST ou de l'interface utilisateur.
+En tant qu'utilisateur, je veux savoir quelles propriétés sont supportées par le type d'ensemble de données, quelles valeurs sont autorisées et quelles sont les valeurs par défaut lors de la création d'une instance d'ensemble de données. 
+En tant qu'utilisateur, je veux spécifier le schéma d'un ensemble de données d'une manière uniforme pour tous les types d'ensembles de données.
+En tant qu'utilisateur, je veux spécifier le schéma comme une chaîne JSON.
+En tant qu'utilisateur, je veux spécifier un schéma comme une chaîne de schéma SQL.
+En tant qu'utilisateur, je veux configurer le temps de vie d'une manière uniforme pour tous les types d'ensembles de données.
+En tant qu'utilisateur, je veux voir les propriétés qui ont été utilisées pour configurer une instance de jeu de données.
+En tant qu'utilisateur, je veux savoir quelles propriétés d'un ensemble de données peuvent être mises à jour.
+En tant qu'utilisateur, je veux mettre à jour les propriétés d'une instance d'un ensemble de données et je m'attends à ce que cela échoue si les nouvelles propriétés ne sont pas compatibles avec un message d'erreur significatif.
+En tant qu'utilisateur, je veux mettre à jour une seule propriété d'une instance d'un ensemble de données sans connaître toutes les autres propriétés. 
+En tant qu'utilisateur, je veux supprimer une seule propriété d'une instance d'un ensemble de données sans connaître toutes les autres propriétés. 
+En tant qu'utilisateur, je veux déclencher un processus de migration pour un ensemble de données si la mise à jour de ses propriétés l'exige.
+En tant qu'utilisateur, je veux m'assurer que si la reconfiguration d'un ensemble de données échoue, aucun changement n'a pris effet, de sorte que toutes les étapes requises pour reconfigurer un ensemble de données doivent être effectuées en une seule action atomique.
+En tant que développeur d'applications, je veux m'assurer que la création d'applications échoue si aucun de ses ensembles de données ne peut être créé.
+En tant que développeur d'applications, je veux m'assurer que le redéploiement des applications échoue si l'un de ses ensembles de données ne peut être reconfiguré.
+En tant que développeur d'application, je veux tolérer les ensembles de données existants si leurs propriétés sont différentes mais compatibles lors de la création d'un ensemble de données dans le cadre du déploiement d'une application. 
+En tant que concepteur de pipeline, je veux obtenir un message d'erreur significatif lorsque la création de pipeline échoue lorsque j'utilise un ensemble de données existant comme puits ou source, de sorte que je sais que le schéma ou toute autre propriété de l'ensemble de données est incompatible avec les exigences du pipeline. 
+En tant qu'utilisateur, je veux spécifier dans la configuration de l'ensemble de données s'il est explorable.
+En tant qu'utilisateur, je veux spécifier le schéma d'exploration séparément.
+En tant qu'utilisateur, je veux m'assurer que la création d'un ensemble de données échoue si l'ensemble de données ne peut être activé pour l'exploration.
+En tant qu'utilisateur, je veux m'assurer que la reconfiguration du jeu de données échoue si la mise à jour correspondante de la table d'exploration échoue.
+En tant qu'utilisateur, je veux m'assurer qu'une opération d'ensemble de données échoue si elle n'apporte pas les modifications nécessaires à son exploration.
+En tant qu'utilisateur, je veux m'assurer qu'une mise à jour d'explorer n'entraîne jamais la perte silencieuse de données ou de données disponibles pour explorer. 
+En tant qu'utilisateur, je veux activer explorer pour un ensemble de données qui n'a pas été configuré pour explorer initialement.
+En tant qu'utilisateur, je veux désactiver l'exploration pour un ensemble de données qui a été configuré pour explorer initialement.

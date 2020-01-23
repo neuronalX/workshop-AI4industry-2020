@@ -1,0 +1,53 @@
+En tant que déposant, je veux déposer et maintenir des ensembles de données par le biais d'une interface Web simple, de sorte que je n'ai pas besoin d'installer et d'apprendre de nouveaux logiciels à déposer.
+En tant que déposant, je veux avoir une interface utilisateur qui m'est familière, de sorte que j'ai l'impression que tous les systèmes de l'Université sont reliés.
+En tant que déposant, je veux déposer et maintenir des ensembles de données par le biais de Pure, de sorte que j'ai un guichet unique pour gérer mes résultats de recherche.
+En tant que déposant, je veux déposer et maintenir des ensembles de données par le biais d'environnements de recherche virtuels et d'autres outils de flux de travail, afin de pouvoir continuer à travailler avec des outils que je connais bien.
+En tant que déposant, je veux déposer les fichiers que j'ai, afin de ne pas avoir à passer beaucoup de temps à trouver la bonne version et à me convertir au bon format.
+En tant que déposant, je souhaite placer les données sous embargo afin que mon droit de première utilisation soit protégé et que je puisse assumer mes responsabilités en matière de confidentialité.
+En tant que déposant, je veux appliquer des licences aux ensembles de données afin que mes droits de propriété intellectuelle soient protégés de manière appropriée.
+En tant que déposant, je veux permettre à mes collaborateurs un accès privilégié aux ensembles de données, afin que nous puissions continuer à avoir une relation productive.
+En tant que déposant, je veux déposer des fichiers arbitrairement volumineux, afin de ne pas être limité dans les fichiers que je peux et ne peux pas déposer.
+En tant que déposant, je veux relier les ensembles de données aux publications de l'Opus, afin que mes données et mes publications soient découvertes plus facilement.
+En tant que déposant, je veux frapper des DOI pour mes données, afin qu'elles puissent être découvertes et citées plus facilement et que les citations puissent être suivies pour que je puisse recevoir un crédit.
+En tant que déposant, je veux que les métadonnées des autres systèmes de l'Université soient automatiquement remplies et mémorisées à partir des dépôts précédents, de sorte que je n'ai pas à perdre de temps à saisir à nouveau les mêmes informations.
+En tant que déposant, je souhaite établir un lien avec des données stockées dans des référentiels externes, afin de pouvoir stocker mes données dans un référentiel approprié tout en les enregistrant auprès de l'université et de ne pas avoir à déposer mes données dans plusieurs endroits.
+En tant que déposant, je souhaite définir une politique d'élimination de mes données, afin de ne pas enfreindre accidentellement les lois ou les accords de collaboration.
+En tant que déposant, je veux suivre les téléchargements de mes données, afin de pouvoir démontrer l'impact de mon travail.
+En tant que déposant, je veux suivre les citations de mes données, afin de pouvoir démontrer l'impact de mon travail.
+En tant que déposant, je veux avoir des garanties sur l'intégrité des données, afin de pouvoir utiliser mes données à l'avenir et de pouvoir répondre aux exigences des financeurs en matière d'archivage.
+En tant que déposant, je veux joindre aux documents des métadonnées sur la possibilité de découvrir un sujet particulier, afin que les chercheurs de ma discipline puissent trouver plus facilement mes données.
+En tant que déposant, je veux lier les ensembles de données avec le DMP du projet, de sorte que la conformité au DMP puisse être démontrée et que l'ensemble du flux de travail du projet soit lié ensemble.
+En tant que déposant, je veux gérer et partager des données de recherche " en direct ", afin que l'ensemble du flux de travail du projet soit relié entre eux.
+En tant que déposant, je veux gérer plusieurs versions d'un même ensemble de données, afin que les modifications apportées à l'ensemble de données soient transparentes et ne compromettent pas l'intégrité de la recherche.
+En tant que déposant, je veux permettre à d'autres personnes de déposer en mon nom, de sorte que je puisse déléguer les tâches de gestion des données de recherche de façon appropriée.
+En tant que utilisateur de données, je veux faire des recherches dans les archives sur le Web, de sorte que je puisse facilement trouver des données pertinentes à mes besoins.
+En tant que utilisateur de données, je veux accéder au système dans ma langue maternelle, afin de ne pas être découragé de réutiliser les données de l'Université de Bath par des barrières linguistiques.
+En tant que utilisateur de données, je veux examiner et identifier les fichiers déposés, afin de pouvoir faire une évaluation préliminaire de leur utilité sans télécharger l'ensemble des données.
+En tant que utilisateur de données, je veux voir un exemple de citation pour un ensemble de données, afin que je puisse le référencer correctement.
+En tant que utilisateur de données, je souhaite visualiser un DOI pour un ensemble de données, afin de pouvoir revenir aux données à l'avenir et importer automatiquement l'ensemble de données dans mon logiciel de gestion des références.
+En tant que utilisateur de données, je veux obtenir une URL persistante pour un ensemble de données, de sorte que je puisse revenir aux données à l'avenir.
+En tant que utilisateur de données, je veux faire des recherches dans les archives via Primo, afin de pouvoir rechercher des livres, des articles et des données en un seul endroit.
+En tant que utilisateur de données, je veux voir les différentes versions d'un ensemble de données en un coup d'œil, afin d'être sûr d'utiliser la bonne version de l'ensemble de données.
+En tant que collaborateur externe, je souhaite avoir un accès privilégié aux données pour les projets auxquels je participe, afin de pouvoir collaborer efficacement.
+En tant que coordinateur externe, je veux avoir la garantie que mes droits de propriété intellectuelle ne seront pas violés, de sorte que le risque de collaborer avec Bath soit acceptable pour moi.
+En tant que coordonnateur externe, je veux avoir accès aux données des collaborateurs de Bath à l'extérieur du campus, afin de pouvoir collaborer efficacement.
+En tant que gestionnaire d'installations de recherche, je veux déposer les données de mon installation directement dans les archives au nom des chercheurs, de sorte que je ne sois plus tenu de conserver mes propres archives de données et que les chercheurs puissent accéder à leurs propres données au besoin. 
+En tant qu'administrateur de Bath Data Archive, je veux faire quelques vérifications sur les ensembles de données déposés avant qu'ils ne soient rendus publics, afin de maintenir une qualité constante des métadonnées, de vérifier la conformité aux politiques et de vérifier les détails des licences.
+En tant qu'administrateur de Bath Data Archive, je veux avoir besoin d'un ensemble minimal de métadonnées, afin de maintenir une qualité constante des métadonnées.
+En tant qu'administrateur de Bath Data Archive, je veux approuver l'élimination programmée des données, afin que les données qui sont encore nécessaires ne soient pas détruites.
+En tant qu'administrateur de Bath Data Archive, je veux interroger l'ensemble des archives, afin de pouvoir faire rapport sur des aspects particuliers des fonds d'archives.
+En tant qu'administrateur de Bath Data Archive, je veux importer les données de Bath à partir d'un centre de données externe en gros, afin que les fonds de données de Bath dans les archives externes ne soient pas perdus s'ils ferment.
+En tant qu'administrateur de Bath Data Archive, je veux encourager et promouvoir l'utilisation de standards ouverts pour le dépôt, afin que les données soient aussi réutilisables que possible.
+En tant que gestionnaire de l'information sur la recherche, je veux intégrer les archives au CRIS afin de pouvoir analyser l'impact de la publication des données de recherche et lier le financement à tous les résultats qu'il produit.
+En tant que gestionnaire de l'information sur la recherche, je veux inclure des dossiers complets pour les données détenues à l'externe, de sorte que le dossier des fonds de données de l'université soit complet.
+En tant que gestionnaire de l'information de recherche, je veux suivre le nombre de citations pour les ensembles de données publiés, afin de pouvoir démontrer l'impact des ensembles de données dans le milieu universitaire.
+En tant que gestionnaire de l'information de recherche, je veux segmenter l'affichage et télécharger les statistiques par pays et par secteur afin de pouvoir démontrer l'impact des ensembles de données en dehors du milieu universitaire.
+En tant que gestionnaire de l'information sur la recherche, je veux avoir des ensembles de données liés à des métadonnées sur les projets, afin de pouvoir faire rapport sur les projets qui déposent des ensembles de données par rapport aux exigences des bailleurs de fonds.
+En tant que service UnivIT, je souhaite stocker des données archivées sur des systèmes de stockage existants, afin que le stockage des données universitaires soit cohérent et maintenable et que la disponibilité future des données puisse être garantie.
+En tant que service UnivIT, je souhaite intégrer les archives aux systèmes universitaires existants, tels que LDAP, afin que le coût d'administration du système reste faible.
+En tant que service UnivIT, je veux stocker les données archivées directement dans la base de données d'objets HCP, de façon à ce que des fonctions puissent être créées.
+En tant que service UnivIT, je veux pouvoir exporter toutes les données vers un système différent, de sorte que je ne sois pas lié à un système qui pourrait ne pas être le plus approprié à un moment donné dans le futur.
+En tant que développeur, je souhaite déposer et maintenir des ensembles de données via une API telle que SWORD2, afin que mon service puisse interagir avec l'archive. 
+En tant qu'éditeur universitaire, je veux établir des liens constants sur le Web entre mes articles et les ensembles de données sous-jacents, de sorte que mes revues puissent être considérées comme étant remplies de recherches solides et de grande qualité. 
+En tant qu'organisme de financement, je veux être rassuré que les chercheurs que je finance ont des plans d'archivage solides pour leurs données, de sorte que je peux être certain que leur financement est un investissement valable.
+En tant qu'organisme de financement, je veux recueillir des métadonnées sur les résultats de la recherche que je finance, afin de pouvoir analyser l'efficacité de la stratégie de financement et d'encourager la fertilisation croisée des résultats de recherche.

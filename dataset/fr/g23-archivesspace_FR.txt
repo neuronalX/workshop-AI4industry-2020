@@ -1,0 +1,57 @@
+En tant que chercheur, je veux pouvoir consulter un instrument de recherche pour une collection ou une ressource particulière.
+En tant qu'administrateur d'application, je veux pouvoir réinitialiser le mot de passe d'un utilisateur pour lui.
+En tant qu'utilisateur, je veux des changements au niveau du backend pour la gestion des listes d'énumérations.
+En tant qu'archiviste, je souhaite importer des fichiers EAD qui ont été exportés par Archon.
+En tant qu'archiviste, je veux attribuer un identificateur unique de composant à un composant de ressource.
+En tant qu'utilisateur, je veux m'authentifier avec LDAP.
+En tant que spécialiste de la migration, je souhaite stocker les identifiants d'enregistrement source AT ou Archon dans chaque enregistrement ASpace.
+pour prendre en charge les tests d'intégrité de la migration des données.
+En tant qu'archiviste, je veux associer une chaîne d'identification standard à une vedette-matière.
+En tant qu'archiviste, je veux pouvoir comprendre qu'une erreur s'est produite pendant l'importation et pourquoi elle s'est produite.
+En tant qu'archiviste, je veux importer des données d'accès dans CSV.
+En tant qu'archiviste, je veux importer des ressources à partir de notices MARCXML.
+En tant qu'utilisateur, je veux des changements au niveau du front-end pour la gestion des listes d'énumérations.
+En tant qu'utilisateur authentifié, je veux avoir accès à des liens vers de l'aide contextuelle.
+En tant qu'archiviste, je veux voir les dates et les étendues affichées dans les vues de lecture et d'édition pour Accessions et/ou Ressources avant la liste des sujets.
+En tant qu'archiviste, je veux importer des renseignements sur les agents à partir des dossiers du CCE-CPF.
+En tant qu'utilisateur, je veux que les modifications du backend prennent en charge le chargement des listes de valeurs d'énumération à partir de la base de données.
+En tant qu'utilisateur, je veux des changements de backend pour mettre à jour en masse une valeur d'énumération à une autre.
+En tant qu'archiviste, je veux exporter les dossiers d'agent au format EAC-CPF.
+En tant qu'archiviste, je veux importer uniquement les informations sur l'agent et le sujet à partir des notices MARCXML.
+En tant qu'administrateur d'application, je veux assigner des utilisateurs à une entrée de données avancée et m'assurer que les permissions appropriées sont appliquées.
+En tant qu'administrateur d'applications, je veux pouvoir configurer l'URL du centre d'aide et les mappages de rubriques.
+En tant qu'utilisateur, je veux ajouter des propriétés supplémentaires pour les dépôts.
+En tant qu'archiviste, je veux ajouter des notes à d'autres types de documents.
+En tant qu'administrateur, je veux créer un nouveau compte utilisateur pour quelqu'un d'autre.
+En tant qu'archiviste, je veux ajouter des données administratives sur la description archivistique et les données relatives aux instruments de recherche à une ressource de premier niveau.
+En tant qu'archiviste, je veux attribuer un niveau de description à une ressource ou à un composant de ressource et éventuellement spécifier une autre valeur si le niveau n'est pas dans une liste prédéfinie.
+En tant que développeur, je veux utiliser une configuration qui n'est pas pré-packagée dans une version construite d'une application.
+En tant qu'archiviste, je souhaite importer des fichiers EAD qui ont été exportés par l'Archivists' Toolkit.
+En tant qu'administrateur système, je veux pouvoir contrôler l'emplacement de la base de données de démonstration et je veux qu'elle soit sauvegardée.
+En tant qu'archiviste, je veux faire des recherches dans un dépôt d'archives pour les ressources et les documents d'acquisition et d'objets numériques.
+En tant qu'archiviste, je veux créer et modifier un sous-enregistrement de gestion des collections.
+En tant qu'archiviste, je souhaite réorganiser la hiérarchie des ressources et/ou des objets numériques à l'aide de la navigation au clavier.
+En tant qu'archiviste, je souhaite réorganiser la hiérarchie de description des ressources en faisant glisser un objet d'archivage vers une position différente dans la hiérarchie.
+En tant qu'archiviste, j'aimerais indiquer qu'un agent est soit le créateur, soit la source ou le sujet d'un élément d'acquisition, de ressource ou de ressource.
+En tant qu'archiviste, je souhaite exporter une description sous le nom EAD.
+En tant qu'archiviste, je veux créer et modifier des enregistrements d'événements.
+En tant qu'archiviste, je veux gérer des objets numériques.
+En tant qu'archiviste, je souhaite associer une instance à une ressource ou à un composant de ressource.
+En tant qu'archiviste, je ne veux pas écraser par inadvertance les modifications apportées par quelqu'un d'autre à un enregistrement que je suis en train de modifier.
+En tant qu'archiviste, je veux créer et modifier des déclarations de gestion des droits.
+En tant qu'archiviste, je souhaite télécharger un EAD à importer à partir de l'application frontale.
+En tant qu'archiviste, je souhaite importer des données EAD.
+En tant que gestionnaire de référentiel, je veux créer, mettre à jour et supprimer des descriptions archivistiques dans mon référentiel.
+En tant que développeur, je veux développer un importateur personnalisé.
+En tant qu'utilisateur de la saisie de données de base, je veux créer et mettre à jour des informations de description archivistique de base.
+En tant que gestionnaire de référentiel, je veux créer, mettre à jour et supprimer tout enregistrement dans mon référentiel.
+En tant qu'utilisateur de ReadOnly, je veux voir les descriptions archivistiques dans mon référentiel.
+En tant qu'administrateur système, je veux déclarer qu'un utilisateur a le rôle Repository Manager pour un référentiel donné.
+En tant qu'archiviste, je veux spécifier la source d'un formulaire de nom d'un agent et ajouter de nouvelles sources et modifier les sources existantes.
+En tant qu'archiviste, je veux créer et modifier des notices d'agent.
+En tant qu'archiviste, je veux créer et modifier un enregistrement de ressource.
+En tant qu'archiviste, je veux associer une notice Sujet à une description de Ressource.
+En tant qu'utilisateur, je veux m'authentifier localement.
+En tant qu'utilisateur, je veux pouvoir me connecter.
+En tant qu'archiviste, je veux associer une instance à un conteneur.
+En tant qu'archiviste, je veux attribuer des informations d'emplacement à un conteneur.

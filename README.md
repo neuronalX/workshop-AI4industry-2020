@@ -5,6 +5,9 @@ Experiments, data analysis, notes and presentations of the Workshop AI4Industry 
 ### Slides of the talk on NLP by Xavier Hinaut (Monday January 20th afternoon)
 [Download the slides here / Téléchargez les diapos de présentation ici](Hinaut2020_Workshop-AI4Industry_Intro-NLP.pdf)
 
+### Récupérer les données des *Use Cases*
+[Projet Gitlab de OnePoint](https://gitlab.com/onepoint/recherche-et-developpement/ai4industry-us-generator)
+
 ### Raccourcis pour des fonctionalités utiles
 - Ajouter ou supprimer des [**stops word**](https://stackoverflow.com/questions/41170726/add-remove-stop-words-with-spacy) (avec *spaCy*)
 - Exemple de modèle pour le [**sentence embedding** / **doc2vec**](https://tfhub.dev/google/tf2-preview/gnews-swivel-20dim/1) (utilisable avec tensorflow)

@@ -1,0 +1,53 @@
+En tant que modérateur, je veux créer un nouveau jeu en entrant un nom et une description optionnelle, de sorte que je puisse commencer à inviter des estimateurs.
+En tant que modérateur, je veux inviter les estimateurs en leur donnant une URL où ils peuvent accéder au jeu, afin que nous puissions commencer le jeu.
+En tant que modérateur, je veux commencer un tour en entrant un élément dans un champ de texte à plusieurs lignes, afin que nous puissions l'estimer.
+En tant que modérateur, je veux voir tous les éléments que nous essayons d'estimer cette session, afin de pouvoir répondre à des questions sur l'histoire en cours telles que "est-ce que cela inclut ___".
+En tant que modérateur, je veux sélectionner un élément à estimer ou à réévaluer, afin que l'équipe puisse voir cet élément et l'estimer.
+En tant que modérateur, je veux ajouter un élément à la liste des éléments à estimer, afin que nous puissions être flexibles et nous adapter aux situations où nous pensons à une nouvelle histoire en jouant.
+En tant que modérateur, je veux modifier un élément de la liste des éléments à estimer, de façon à ce qu'il reflète mieux la compréhension de l'élément par l'équipe.
+En tant que modérateur, je veux supprimer un élément de la liste des éléments à estimer, afin que nous puissions le supprimer et non l'estimer.
+En tant que modérateur, je veux montrer toutes les estimations immédiatement, de sorte que je puisse décider de montrer les estimations qui ont été données même si tous les estimateurs n'ont pas donné leur estimation.
+En tant que modérateur, je veux accepter la moyenne de toutes les estimations, afin que nous puissions passer au point suivant lorsque nous serons d'accord.
+En tant que modérateur, je souhaite que le champ "devis" soit rempli automatiquement si tous les estimateurs présentent la même carte, afin que je puisse l'accepter plus rapidement.
+En tant que modérateur, je veux entrer l'estimation convenue, afin que nous puissions passer au point suivant lorsque nous serons d'accord.
+En tant que modérateur, je veux estimer à nouveau une histoire que nous avons estimée plus tôt au cours de la séance, afin que nous puissions donner une nouvelle estimation si nous nous sentons différents au sujet de l'histoire après avoir estimé d'autres histoires connexes.
+En tant que modérateur, je veux importer des histoires à partir d'une feuille de calcul, de sorte que je n'ai pas à copier et coller chaque histoire individuelle.
+En tant que modérateur, je veux copier/coller des histoires à partir d'une feuille de calcul, de sorte que je puisse commencer plus rapidement.
+En tant que modérateur, je veux naviguer à travers les jeux précédents, afin de pouvoir trouver le jeu précédent que je recherche.
+En tant que modérateur, je veux voir une transcription d'un jeu, afin de pouvoir voir les histoires et les estimations.
+En tant que modérateur, je veux exporter une transcription d'un jeu sous forme de fichier HTML, de sorte que je puisse sauvegarder les histoires et les estimations localement.
+En tant que modérateur, je veux exporter une transcription d'un jeu sous forme de fichier CSV, afin de pouvoir continuer à traiter les histoires et les estimations.
+En tant que modérateur, je veux supprimer un jeu, de sorte que les histoires et les estimations pour ce jeu ne soient plus stockées.
+En tant que modérateur, je veux créer un compte pour l'application en entrant mon nom, mon adresse e-mail, un mot de passe et un nom d'utilisateur, afin que je puisse commencer à utiliser l'application.
+En tant que modérateur, je veux me connecter en utilisant mon nom de compte et mon mot de passe, afin de pouvoir commencer à utiliser l'application.
+En tant que modérateur, je souhaite modifier les détails de mon compte, afin de pouvoir tenir à jour les détails de mon compte.
+En tant que modérateur, je souhaite supprimer mon compte, afin que les informations et les jeux ne soient plus stockés.
+En tant que modérateur, je veux voir les dates et les heures dans mon fuseau horaire local, de sorte que je n'ai pas à faire moi-même la conversion du fuseau horaire.
+En tant que modérateur, je veux recevoir un rappel de mot de passe par courriel, afin de pouvoir utiliser à nouveau l'application lorsque j'ai oublié mon mot de passe.
+En tant que modérateur, je veux choisir si l'équipe doit estimer avec {0, 1/2, 1, 2, 3, 5, 5, 8, etc.} ou {0, 1, 2, 4, 8, 16, 32, etc.}, afin que l'équipe puisse utiliser soit la séquence de Fibonacci modifiée soit les pouvoirs 2.
+En tant que modérateur, je veux inviter jusqu'à 15 estimateurs, afin que nous puissions jouer avec de grandes mais pas immenses équipes.
+En tant qu'estimateur, je veux participer à un jeu en entrant mon nom sur la page pour laquelle j'ai reçu l'URL, afin de pouvoir participer.
+En tant qu'estimateur, je veux voir l'élément que nous estimons, de sorte que je sache pour quoi je donne une estimation.
+En tant qu'estimateur, je veux voir tous les éléments que nous essaierons d'estimer au cours de cette séance, afin d'avoir une idée de la taille des divers éléments.
+En tant que participant, je veux voir immédiatement qu'une estimation a été donnée par un estimateur spécifique, afin de savoir qui a déjà donné une estimation et qui nous attendons toujours.
+En tant que participant, je veux qu'on me montre toutes les estimations en même temps après que tous les estimateurs ont donné leur estimation, afin d'être certain que les estimations sont indépendantes et ne sont pas influencées par d'autres estimations données dans le même tirage.
+En tant que participant, je veux pouvoir modifier mon estimation jusqu'à ce que la dernière personne choisisse une carte et que toutes les cartes soient affichées, de sorte que je puisse changer d'avis en fonction des renseignements que j'entends.
+En tant que participant, je veux être en mesure de voir les estimations antérieures de chaque estimateur pour l'histoire estimée, de sorte que je puisse voir comment son opinion a changé et que je puisse poser des questions.
+En tant que participant, je veux voir qui a donné quelles estimations au cours du cycle actuel, de sorte que je le sache lorsque nous discuterons des estimations.
+En tant que participant, je veux pouvoir commencer un compte à rebours de deux minutes que tous les participants peuvent voir, de sorte que je puisse limiter le temps passé à discuter des prévisions budgétaires lorsque je pense que nous avons assez parlé.
+En tant que participant, je veux que la minuterie de deux minutes se réinitialise dès que nous aurons tous joué une estimation, afin qu'elle soit prête à être utilisée au prochain tour.
+En tant que participant, je veux faire défiler les articles et les estimations des séries précédentes afin de pouvoir utiliser cette information lorsque j'estime l'élément de la série en cours.
+En tant que participant, je veux toujours avoir les cartes dans le même ordre à travers plusieurs tirages, afin qu'il soit facile de comparer les estimations.
+En tant que participant, je veux changer mon estimation tant que le tirage n'est pas terminé, afin de pouvoir changer d'avis.
+En tant que participant, je veux avoir une petite photo miniature affichée près de l'endroit où mes cartes sont jouées, afin que le jeu soit plus personnel parce que je vois avec qui je fais une estimation.
+En tant que développeur, je veux avoir écrit un site conforme aux normes XHTML et CSS, afin que le plus grand nombre possible de personnes puissent accéder au site et le consulter comme prévu.
+En tant que développeur, je veux avoir une liste de définitions pour les termes couramment utilisés, afin que tous ceux qui travaillent sur le projet puissent se comprendre plus facilement.
+En tant que développeur, je veux avoir créé des index de base de données, afin que les requêtes s'exécutent aussi vite que possible.
+En tant que développeur, je veux que l'application fonctionne correctement dans Internet Explorer 6 et 7, Firefox 1.5 et 2, et Safari 2, afin que le plus grand nombre de personnes possible puissent utiliser pleinement l'application.
+En tant que développeur, je veux que le site soit conforme aux directives d'accessibilité du W3C dans la mesure du possible, afin que les personnes ayant des problèmes d'accessibilité puissent utiliser l'application.
+En tant qu'utilisateur, je veux que l'application réponde rapidement à mes actions, afin de ne pas m'ennuyer.
+En tant qu'utilisateur, je veux être capable d'utiliser Unicode, de sorte que je puisse utiliser n'importe quelle langue que je veux.
+En tant qu'utilisateur, je veux voir des URL raisonnables et prévisibles, afin que l'application se sente logique et transparente.
+En tant qu'utilisateur, je veux avoir de belles pages d'erreur quand quelque chose tourne mal, afin que je puisse faire confiance au système et à ses développeurs.
+En tant que Chercheur, je veux que les résultats soient stockés d'une manière non identifiable, de sorte que je puisse étudier les données pour voir si les estimations convergent vers la première opinion donnée par "l'estimateur A" par exemple.
+En tant que Mike, je veux pouvoir voir quelques métriques sur l'utilisation du jeu, de sorte que je puisse voir combien il est utilisé.

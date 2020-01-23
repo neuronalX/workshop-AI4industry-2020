@@ -1,0 +1,100 @@
+En tant qu'archiviste, je veux appliquer une déclaration de licence ou de droits, afin de savoir ce que je peux faire avec un fichier.
+En tant qu'archiviste, je veux marquer les fichiers individuels comme étant restreints, afin qu'ils ne soient pas partagés par erreur.
+En tant qu'archiviste, je veux marquer les groupes de fichiers comme restreints, afin qu'ils ne soient pas partagés par erreur.
+En tant qu'archiviste, je veux restreindre la consultation d'un fichier.
+En tant qu'archiviste, je veux restreindre un groupe de fichiers de la vue.
+En tant qu'archiviste, je veux fixer une date à laquelle les restrictions seront supprimées d'un fichier, afin de ne pas avoir à le mettre à jour manuellement.
+En tant qu'archiviste, je veux ajouter des informations sur les dates de fin de restriction aux fichiers, de sorte que je puisse partager des fichiers lorsqu'ils sont ouverts.
+En tant qu'archiviste, je veux ajouter des restrictions détaillées aux groupes de fichiers, afin de savoir si et comment ils peuvent être partagés.
+En tant qu'archiviste, je veux limiter l'accès à certains fichiers par adresse IP, de sorte que je ne puisse donner accès à la salle de lecture qu'à certains fichiers numériques.
+En tant qu'archiviste, je veux restreindre l'accès à certains fichiers par utilisateur, afin de permettre aux représentants des donateurs de voir certains fichiers.
+En tant qu'archiviste, je veux savoir si une photo a déjà été numérisée, afin de pouvoir l'autoriser à un chercheur.
+En tant qu'archiviste, je veux sélectionner les statuts et les déclarations de droits existants, afin de pouvoir créer facilement des déclarations de droits uniformes.
+En tant qu'archiviste, je veux censurer l'information contenue dans des fichiers numériques pendant un certain temps, afin de pouvoir donner accès à des parties non sensibles d'un document.
+En tant qu'archiviste, je veux avoir un formulaire en ligne pour l'octroi de licences pour les documents d'archives, afin que le processus soit plus transparent et qu'une partie des allers-retours puisse être éliminée.
+En tant qu'archiviste, je veux éditer par lots les métadonnées des fichiers.
+En tant qu'archiviste, je veux télécharger un seul fichier.
+En tant qu'archiviste, je veux télécharger des groupes de fichiers afin de gagner du temps.
+En tant qu'archiviste, je veux créer automatiquement des copies d'accès aux fichiers, afin de ne pas avoir à le faire manuellement.
+En tant qu'archiviste, je veux générer automatiquement des métadonnées techniques afin de connaître la taille du fichier.
+En tant qu'archiviste adjoint, je veux télécharger et étiqueter les documents de travail générés par le personnel, afin que le personnel et les chercheurs puissent y accéder facilement.
+En tant qu'archiviste, je veux faire la distinction entre les objets numériques numérisés selon les normes de préservation et ceux créés à des fins d'accès seulement, afin de savoir si je dois appliquer des mesures de préservation.
+En tant qu'archiviste, je veux relier les versions électroniques des publications des chercheurs aux citations, afin de pouvoir les partager avec d'autres chercheurs.
+En tant qu'archiviste, je veux télécharger des scans d'images créées en répondant à des demandes de recherche, afin qu'elles puissent être utilisées à nouveau pour d'autres demandes de recherche.
+En tant qu'archiviste, je veux créer des scans de qualité des images et des documents, afin qu'ils puissent être réutilisés.
+En tant qu'archiviste, je veux créer automatiquement des dérivés d'accès d'objets numériques, afin de ne pas avoir à le faire manuellement.
+En tant qu'archiviste, je veux attribuer automatiquement des identificateurs uniques aux documents que je scanne, afin d'éviter les erreurs potentielles.
+En tant qu'archiviste, je veux intégrer automatiquement les métadonnées dans les en-têtes de fichiers, afin d'éviter les tâches répétitives et facilement oubliées.
+En tant qu'archiviste, je veux faire pivoter les images afin de pouvoir les orienter correctement.
+En tant qu'archiviste, je veux appliquer des opérations automatiques de contraste et de niveau à un fichier numérisé, afin d'éliminer le travail inutile.
+En tant qu'archiviste, je veux effectuer des manipulations de contraste, de niveau et autres manuellement, afin de pouvoir améliorer les résultats des outils automatisés.
+En tant que représentant des donateurs, je veux fournir des fonds supplémentaires aux collections nouvelles et existantes afin que les documents puissent être transférés sur une base continue.
+En tant qu'archiviste, je veux gérer les scans des documents d'archives créés pour les visites éducatives, afin de les retrouver et de les consulter pour une autre visite.
+En tant qu'archiviste, je veux gérer la documentation de prêt, y compris les photos de préservation, les formulaires et la correspondance, afin de pouvoir la retrouver facilement plus tard.
+En tant que chercheur, je veux générer des données de citation structurées, de sorte que je puisse citer un fichier dans une publication.
+En tant que chercheur, je veux partager un lien vers un fichier sur les médias sociaux, afin de pouvoir montrer à d'autres personnes ce que j'ai trouvé intéressant.
+En tant que chercheur, je veux comprendre le statut du droit d'auteur de l'image, afin de savoir si je peux l'utiliser.
+En tant que chercheur, je veux des citations claires sur chaque document, afin de pouvoir les citer avec précision dans une publication.
+En tant que chercheur, je veux partager les rapports que j'ai rédigés, afin qu'ils soient accessibles au personnel et aux chercheurs.
+En tant que chercheur, je veux télécharger un fichier, afin de pouvoir l'utiliser pour la recherche sans avoir à me rendre en salle de lecture.
+En tant que chercheur, je veux télécharger des rapports, afin de pouvoir les utiliser dans l'immédiat et dans le futur dans des discussions et des articles.
+En tant que chercheur, je veux trouver des photographies et des documents que je peux partager sur les médias sociaux.
+En tant que chercheur, je veux demander des versions analogiques d'objets numériques, afin de pouvoir les voir dans la salle de lecture.
+En tant que chercheur, je veux commander des copies de photos, afin de pouvoir les utiliser dans une publication.
+En tant que chercheur, je veux recevoir une notification si quelque chose que je demande dans la salle de lecture ou pour duplication est déjà numérisé, de sorte que je n'ai pas à faire cette demande.
+En tant qu'archiviste, je veux mettre des informations sur les droits à la disposition des chercheurs et des donateurs, afin qu'ils sachent ce qu'ils peuvent faire avec les images.
+En tant qu'archiviste, je veux m'assurer que les courriels envoyés au sujet d'objets précis contiennent des renseignements exacts sur les citations, afin de pouvoir confirmer à quel objet on fait référence.
+En tant que chercheur, je veux diffuser des fichiers audio et vidéo en continu dans mon navigateur Web.
+En tant que chercheur, je veux exporter des données descriptives dans un format commun, de sorte que je puisse utiliser des outils de text mining.
+En tant qu'archiviste, je veux suivre l'utilisation d'une photo pour savoir si je l'ai déjà envoyée à un chercheur.
+En tant qu'archiviste, je veux voir ce qu'un utilisateur particulier a téléchargé, afin de pouvoir suivre l'utilisation des ressources.
+En tant qu'archiviste, je veux donner accès à des copies numériques de documents non traités, afin que les donateurs puissent avoir accès à ce qu'ils nous ont donné.
+En tant qu'archiviste, je veux mettre autant de documents d'archives que possible à la disposition du public, afin de pouvoir remplir la mission de l'ACFC.
+En tant qu'archiviste, je veux utiliser le contenu archivistique sur le site Web de RAC, afin de pouvoir intégrer nos collections dans notre présence sur le Web.
+En tant que représentant d'un donateur, je veux avoir accès à l'information descriptive sur les images numérisées pour les besoins de mon établissement.
+En tant que représentant des donneurs, je veux regarder les images qui ont été scannées de ma collection, afin de pouvoir les utiliser dans les expositions, les rapports, etc. de mon établissement.
+En tant que chercheur, je veux faire une recherche dans tous les fichiers par mot-clé.
+En tant que chercheur, je veux faire une recherche par mot-clé, afin d'apprendre ce qui existe déjà numériquement et d'éviter de placer des demandes de duplication supplémentaires.
+En tant que chercheur, je veux voir des documents communs à toutes les collections, de sorte que je puisse préparer une analyse complète.
+En tant que chercheur, je veux parcourir les fichiers d'une collection.
+En tant qu'archiviste, je veux parcourir les fichiers d'une collection.
+En tant qu'archiviste, je veux faire des recherches dans tous les dossiers par mot-clé.
+En tant qu'archiviste, je veux télécharger des inventaires afin que les représentants de nos donateurs puissent plus facilement demander leur matériel.
+En tant qu'archiviste, je veux faire une recherche par balise, afin de faciliter la recherche de photographies particulières.
+En tant qu'archiviste, je veux accéder aux fichiers numériques sur le disque X, afin de pouvoir les utiliser.
+En tant qu'archiviste adjoint, je veux accéder facilement aux formulaires interministériels.
+En tant qu'archiviste, je veux avoir des versions électroniques des fichiers de la collection à la disposition du personnel afin d'accroître l'accessibilité et de ne pas perdre les fichiers originaux.
+En tant que chercheur, je veux pouvoir faire des recherches dans les images de la collection de photos, afin de pouvoir préparer des présentations.
+En tant que chercheur, je veux faire des recherches à l'aide de données structurées, afin de pouvoir trouver tout ce qui est pertinent à ma recherche dans les collections.
+En tant que chercheur, je veux avoir accès à des documents de travail étiquetés, afin que mon processus de recherche soit mieux éclairé.
+En tant que chercheur, je veux avoir accès à du matériel éducatif de vulgarisation, afin de pouvoir établir des liens avec les établissements.
+En tant que chercheur, je veux avoir des renseignements exacts sur les citations croisées afin de pouvoir retrouver des documents.
+En tant que chercheur, je veux avoir accès à des documents d'archives numérisés sans médiation, de sorte que je puisse décider ce que je veux consulter.
+En tant qu'archiviste, je veux faire la distinction entre les images numérisées en couleur ou en noir et blanc, afin de savoir si ces images répondent ou non aux exigences de publication.
+En tant que chercheur, je veux poser une question au sujet d'un dossier précis, afin d'obtenir plus d'information.
+En tant que chercheur, je veux faire des recherches dans tous les documents textuels numérisés disponibles afin de trouver plus efficacement les documents numérisés pertinents à ma recherche.
+En tant que chercheur, je veux savoir la date à laquelle quelque chose a été numérisé, afin de savoir s'il a été numérisé depuis ma dernière recherche.
+En tant que chercheur, je veux effectuer une recherche par mots-clés dans tous les journaux numérisés d'un agent de programme RF, plutôt que d'avoir à chercher séparément chaque segment de journal numérisé, de sorte que je puisse trouver plus efficacement les entrées de journal pertinentes pour ma recherche.
+En tant qu'archiviste, je veux avoir accès aux inventaires des collections non traitées afin de pouvoir fournir des services de référence aux donateurs.
+En tant que chercheur, je veux voir des vignettes de photos, afin de pouvoir faire une sélection de celles que je veux licencier.
+En tant que chercheur, je veux savoir quand une partie seulement d'un dossier a été numérisée, afin de savoir si je vois tout ou seulement une partie.
+En tant que représentant d'un donateur, je veux voir des vignettes d'images, afin de pouvoir choisir celle que je veux.
+En tant que chercheur, je veux visionner des extraits de films, afin de voir des extraits de films.
+En tant qu'archiviste, je veux faire une recherche d'images par photographe.
+En tant qu'archiviste, je veux rechercher des images par les personnes qui y sont représentées.
+En tant qu'archiviste, je veux faire une recherche d'images par endroit où la photo a été prise.
+En tant qu'archiviste, je veux faire une recherche d'images par droit.
+En tant qu'archiviste, je veux faire des recherches dans des fiches et d'autres instruments de recherche non publics, afin de pouvoir fournir une meilleure aide à la recherche.
+En tant qu'archiviste, je veux consulter les fichiers de la collection afin d'obtenir de l'information de base pour le traitement d'une collection.
+En tant qu'archiviste, je veux voir l'emplacement physique des documents non archivistiques afin de pouvoir fournir des services de recherche aux donateurs.
+En tant qu'archiviste, je veux trouver des dossiers qui ne peuvent pas être rendus publics, de sorte que je puisse facilement accéder à tout ce qui a été numérisé.
+En tant qu'archiviste, je veux avoir accès aux métadonnées et aux représentations visuelles des fiches, afin de pouvoir utiliser cette information pour aider les chercheurs.
+En tant qu'archiviste, je veux rechercher des types de documents individuels.
+En tant qu'archiviste, je veux rechercher des images en téléchargeant une image, de sorte que je puisse trouver des images lorsque je n'ai pas de métadonnées.
+En tant qu'administrateur, je veux créer des groupes d'utilisateurs, afin de pouvoir contrôler les permissions des utilisateurs.
+En tant qu'administrateur, je veux créer des rôles utilisateur, afin de pouvoir regrouper les utilisateurs par rôle.
+En tant qu'administrateur, je veux assigner du personnel RAC à différents groupes d'utilisateurs, afin de pouvoir contrôler les accès en lecture/écriture.
+En tant qu'administrateur, je veux attribuer des droits aux groupes d'utilisateurs ou aux rôles, afin de pouvoir contrôler ce que les utilisateurs peuvent et ne peuvent pas faire.
+En tant qu'administrateur, je veux permettre aux utilisateurs de se connecter à l'aide des informations d'identification Active Directory, afin de ne pas avoir à gérer un autre ensemble de noms d'utilisateur et mots de passe.
+En tant qu'administrateur, je veux que les chercheurs réinitialisent leurs propres mots de passe afin de ne pas avoir à envoyer des mots de passe en texte clair.
+En tant qu'administrateur, je veux limiter le nombre de personnes qui peuvent voir certains champs de métadonnées, de sorte que je puisse afficher ou masquer des choses en fonction des groupes d'utilisateurs.

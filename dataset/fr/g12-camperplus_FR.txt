@@ -1,0 +1,55 @@
+En tant qu'administrateur de camp, je veux pouvoir ajouter des campeurs, afin de pouvoir suivre chaque campeur individuellement.
+En tant qu'administrateur de camp, je veux pouvoir retirer les campeurs s'ils ne participent plus au camp, afin de pouvoir garder les dossiers organisés.
+En tant qu'administrateur de camp, je veux pouvoir conserver les dossiers des campeurs des années précédentes, afin de réduire la quantité de travail que je dois faire. 
+En tant qu'administrateur de camp, je veux pouvoir télécharger les formulaires de consentement afin que les campeurs ou leurs parents puissent facilement y accéder.
+En tant qu'administrateur de camp, je veux être en mesure de savoir quel campeur a soumis quel formulaire, afin d'éviter les problèmes juridiques.
+En tant qu'administratrice de camp, je veux pouvoir organiser des activités pour les campeurs, afin que les travailleurs du camp puissent facilement savoir qui se trouve où et à tout moment.
+En tant qu'administrateur de camp, je veux pouvoir créer automatiquement des badges nominatifs pour les campeurs, afin de pouvoir réduire la quantité de travail que je dois faire.
+En tant qu'administrateur de camp, je veux pouvoir suspendre un campeur qui avait des problèmes de comportement.
+En tant qu'administrateur de camp, je veux être en mesure de définir des rappels relatifs à des tâches spécifiques qui doivent être effectuées.
+En tant qu'administrateur de camp, je veux pouvoir assigner différents postes aux membres du personnel, afin qu'il soit possible d'organiser des activités en termes de responsabilités.
+En tant qu'administrateur de camp, je veux être en mesure d'avertir un travailleur de camp qui, à mon avis, a fait son travail de façon inappropriée.
+En tant qu'administrateur de camp, je veux pouvoir créer, modifier les règles que les campeurs et les travailleurs de camp doivent suivre.
+En tant qu'administrateur de camp, je veux suivre l'utilisation des installations internes du camp afin de ne pas créer d'horaires conflictuels pour les différents groupes du camp.
+En tant qu'administratrice de camp, je veux créer un moyen pour que les parents puissent me faire part de leurs commentaires et de leurs préoccupations générales, afin que je puisse continuer à améliorer les services que je fournis.
+En tant qu'administrateur de camp, je veux stocker les informations d'urgence des campeurs dans une base de données, de sorte que je puisse facilement informer les parties nécessaires en cas d'urgence.
+En tant qu'administrateur de camp, je veux stocker les informations des parents/tuteurs immédiats du campeur, de sorte que je puisse facilement appeler pour les avertir en cas de comportement inacceptable.
+En tant qu'administratrice de camp, je veux donner une rétroaction toutes les deux semaines aux parents des campeurs, afin qu'ils soient au courant du comportement et de la performance de leur enfant au camp.
+En tant qu'administrateur de camp, je veux être capable de faire des porte-noms plus rapidement, afin de ne pas avoir à passer deux heures à faire plus de 200 porte-noms.
+En tant qu'administrateur de camp, je veux pouvoir créer un formulaire d'inscription pour le personnel et les enfants, afin de pouvoir m'organiser.
+En tant qu'administrateur de camp, je veux pouvoir conserver mes informations à un seul endroit, afin que les administrateurs de l'année prochaine puissent améliorer les choses par rapport aux années précédentes.
+En tant qu'administrateur de camp, je veux être en mesure de voir les formulaires médicaux, afin que nous puissions nous préparer à une crise d'allergie.
+En tant qu'administrateur de camp, je veux être en mesure d'aviser les parents en même temps, afin qu'ils puissent être informés de tout événement à venir.
+En tant qu'administratrice de camp, je veux être rapidement au courant de l'assiduité tous les jours, de façon à pouvoir suivre les enfants qui viennent au camp.
+En tant qu'administrateur de camp, je veux pouvoir ajouter des parents pour qu'ils puissent inscrire leurs enfants au camp.
+En tant qu'administrateur de camp, je veux pouvoir créer des groupes et ajouter des campeurs aux groupes, afin de pouvoir facilement organiser les campeurs.
+En tant qu'administrateur de camp, je veux être en mesure de voir tous mes groupes de camp et les événements prévus pour chaque groupe de camp, afin de pouvoir informer l'animateur de ce que leur groupe fera pour la journée.
+En tant qu'administrateur de camp, je veux pouvoir planifier les tâches/activités d'un groupe de camp spécifique, afin de pouvoir suivre chaque groupe quotidiennement, hebdomadairement et mensuellement.
+En tant qu'administrateur de camp, je veux pouvoir supprimer les tâches/activités que j'ai planifiées, de sorte que je puisse garder l'emploi du temps propre des activités inutiles.
+En tant qu'administrateur de camp, je veux pouvoir modifier les tâches/événements que j'ai planifiés au cas où il y aurait un changement, de sorte que je puisse toujours garder l'horaire à jour.
+En tant qu'administrateur de camp, je veux pouvoir modifier les informations des campeurs inscrits, afin de pouvoir tenir à jour les informations des campeurs.
+En tant qu'administrateur de camp, je veux pouvoir supprimer les campeurs de la base de données, de sorte que je puisse garder mes pages libres de tout encombrement.
+En tant qu'administrateur d'un camp, je veux pouvoir modifier les informations des parents ajoutés, de sorte que je puisse garder à jour les informations des parents.
+En tant qu'administrateur de camp, je veux pouvoir supprimer les parents de la base de données, de sorte que je puisse garder mes pages libres de tout encombrement inutile.
+En tant qu'administrateur de camp, je veux pouvoir modifier les informations d'un groupe, afin de pouvoir tenir les groupes à jour.
+En tant qu'administrateur de camp, je veux pouvoir ne voir que les événements d'un ou de plusieurs groupes spécifiques sur le calendrier des événements, de sorte que je puisse facilement lire les données du calendrier sans trop d'encombrement.
+En tant que parent, je veux pouvoir voir quels formulaires de consentement j'ai soumis, afin de savoir ce qu'il me reste à faire.
+En tant que parent, je veux pouvoir suivre les activités et l'horaire de mon enfant au camp afin d'avoir l'esprit tranquille.
+En tant que parent, je veux pouvoir soumettre différents types de formulaires à la direction du camp.
+En tant que parent, je veux pouvoir créer un compte afin de pouvoir inscrire mes enfants au camp en ligne.
+En tant que parent, je veux voir quels conseillers sont affectés à mes enfants, afin d'avoir l'esprit tranquille.
+En tant que parent, je veux pouvoir envoyer un message aux conseillers de mon enfant pour que je puisse exprimer mes préoccupations ou vérifier les progrès de mon enfant.
+En tant que parent, je veux pouvoir signer et soumettre des formulaires de consentement en ligne, afin de ne pas avoir à m'occuper de la perte d'un formulaire de consentement par mon enfant.
+En tant que parent, je veux pouvoir voir si j'ai effectué tous les paiements nécessaires.
+En tant que parent, je veux pouvoir partager toutes les photos que le camp a prises de mon enfant.
+En tant que parent, je veux pouvoir communiquer avec le personnel en cas d'urgence.
+En tant que parent, je veux pouvoir inscrire mes enfants pour qu'ils puissent être admis au camp.
+En tant que parent, je veux pouvoir voir et modifier mes enfants inscrits à l'année du camp, afin de savoir qui je suis déjà inscrit au camp, qui est encore en attente d'admission, etc.
+En tant que parent, je veux être en mesure de voir l'horaire des activités auxquelles participent mes enfants au camp, afin d'être mieux informé de ce qu'ils font au camp.
+En tant que travailleur de camp, je veux être en mesure de voir quels campeurs je suis responsable et où, afin de m'assurer que je fais mon travail correctement.
+En tant que travailleur de camp, je pourrais soumettre un rapport d'achèvement pour les tâches qui m'ont été assignées.
+En tant que travailleur de camp, je suis en mesure de signaler un campeur au gérant qui a un comportement inapproprié.
+En tant que travailleur de camp, je suis en mesure de signaler au directeur une liste de fournitures dont le camp est à court.
+En tant que travailleur de camp, je suis en mesure de signaler les réparations nécessaires au directeur dont le camp a besoin.
+En tant que travailleur de camp, je veux être en mesure de voir quels campeurs je suis responsable et où, afin de m'assurer que je fais mon travail correctement.
+En tant que monitrice de camp, je veux pouvoir m'occuper des enfants qui m'ont été assignés, afin de m'assurer que tout le monde est pris en compte.

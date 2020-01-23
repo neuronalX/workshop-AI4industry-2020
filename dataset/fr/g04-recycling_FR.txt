@@ -1,0 +1,51 @@
+En tant qu'utilisateur, je veux cliquer sur l'adresse pour qu'elle m'amène à un nouvel onglet avec Google Maps.
+En tant qu'utilisateur, je veux pouvoir consulter anonymement les informations publiques, afin de connaître les centres de recyclage près de chez moi avant de créer un compte.
+En tant qu'utilisateur, je veux pouvoir entrer mon code postal et obtenir une liste des installations de recyclage à proximité, afin de pouvoir déterminer lesquelles je devrais envisager.
+En tant qu'utilisateur, je veux pouvoir obtenir les heures d'ouverture de chaque installation de recyclage, de sorte que je puisse organiser des dépôts pendant mes jours de repos ou après les heures de travail.
+En tant qu'utilisateur, je souhaite disposer d'un horaire de ramassage flexible, afin de pouvoir utiliser le site plus facilement.
+En tant qu'utilisateur, je veux pouvoir sélectionner différents types de déchets recyclables, donc j'ai et j'obtiens une liste des installations qui acceptent chaque type et leurs heures d'ouverture, de sorte que je puisse trouver un itinéraire et un horaire optimal.
+En tant qu'utilisateur, je veux ajouter les centres de dons comme favoris sur mon profil, afin de pouvoir les consulter plus tard.
+En tant qu'utilisateur, je veux être en mesure de donner mon ID e-mail, de sorte que je puisse recevoir des notifications pour les nouveaux événements à mesure qu'ils sont affichés.
+En tant qu'utilisateur, je veux pouvoir visualiser une carte des bacs de recyclage publics dans ma région.
+En tant qu'utilisateur, je veux pouvoir visualiser sur une carte les sites de dépôt de déchets spéciaux dans ma région.
+En tant qu'utilisateur, je veux être en mesure de voir les activités d'élimination sécuritaire qui sont actuellement organisées dans ma région.
+En tant qu'utilisateur, je veux choisir une heure de ramassage flexible, de sorte que je puisse utiliser le site plus facilement.
+En tant qu'utilisateur, je souhaite consulter la documentation utilisateur du site Web, afin de savoir comment utiliser l'application Web.
+En tant qu'utilisateur, je veux recevoir un retour d'information lorsque j'entre un code postal invalide.
+En tant qu'utilisateur, je veux pouvoir créer un compte, afin de pouvoir créer mon propre profil.
+En tant qu'administrateur, je veux pouvoir ajouter ou supprimer des informations sur les installations de recyclage, afin que les utilisateurs obtiennent les informations les plus récentes.
+En tant qu'administrateur, je veux pouvoir lire les commentaires et les plaintes des utilisateurs, afin que nous puissions ajouter plus de fonctionnalités et continuer à améliorer le service que nous leur fournissons.
+En tant qu'utilisateur, je veux pouvoir vérifier l'historique des transactions et en conserver une trace, afin de pouvoir y revenir au besoin.
+En tant qu'utilisateur, je veux avoir une interface utilisateur et une interface utilisateur (UI et UX) de qualité sur les sites, pour que je puisse naviguer en toute sérénité à travers eux.
+En tant qu'utilisateur, je veux pouvoir accéder au site et faire toutes les autres choses sur tous mes appareils électroniques.
+En tant qu'administrateur, je veux pouvoir bloquer des utilisateurs spécifiques en fonction de leur adresse IP, afin d'éviter les spams sur les sites web.
+En tant qu'administrateur, je veux voir un tableau de bord qui surveille l'état de tous les sites, de sorte que je puisse avoir une idée de ce que les gens font sur nos sites et connaître l'état du service.
+En tant qu'administrateur, je veux que toutes les données soient cryptées, afin que les informations importantes ne soient pas volées lors d'une brèche de serveur ou d'une attaque.
+En tant que cadre supérieur, je veux avoir un accès complet aux données relatives à mon entreprise, afin d'avoir une idée de la performance de mon entreprise.
+En tant qu'employé, je veux avoir accès au système de planification d'itinéraires pendant mon travail, afin d'être guidé dans le quartier.
+En tant qu'employé du service des ressources humaines, je veux avoir accès à l'information complète de tous les employés qui travaillent pour cette entreprise.
+En tant que développeur, je souhaite accéder à une API depuis le site web, afin de pouvoir l'intégrer et implémenter certaines fonctionnalités dans ma propre application iOS.
+En tant qu'utilisateur, je veux pouvoir recevoir des récompenses attrayantes, de sorte que j'ai une raison d'utiliser le site Web.
+En tant qu'utilisateur, je veux que mes renseignements personnels soient conservés en toute sécurité dans la base de données du site Web, afin de ne pas être victime de vol d'identité ou de harcèlement téléphonique.
+En tant qu'administrateur, je veux gérer toutes les activités des utilisateurs, afin de pouvoir gérer plus efficacement.
+En tant qu'entreprise, je veux avoir un site Web facile à utiliser, de sorte que je puisse télécharger ou supprimer des choses étape par étape.
+En tant qu'employé, je veux recevoir des avis rapides afin de pouvoir traiter les cas du premier coup.
+En tant que comptable d'entreprise, je veux consulter tous les frais d'activités disponibles en ligne, afin de pouvoir facilement créer un relevé de compte.
+En tant que développeur, je veux utiliser bootstrap dans le processus de développement, de sorte que je peux facilement concevoir mon site Web.
+En tant que développeur, je veux participer à des cours UI/UX, afin de pouvoir développer un site Web avec de superbes fonctionnalités.
+En tant qu'utilisateur, je veux voir tous les emplacements des centres de recyclage sur une carte, de sorte que je puisse vérifier quels itinéraires prendre pour déposer les déchets.
+En tant qu'utilisateur, je veux télécharger l'horaire de ma semaine, afin d'obtenir des recommandations pour les centres de recyclage qui correspondent le mieux à ma disponibilité.
+En tant qu'utilisateur, je veux lier mon compte de courriel à mon profil, afin de pouvoir obtenir un mot de passe temporaire au cas où j'en oublierais un.
+En tant qu'utilisateur, je souhaite contacter les administrateurs, afin de pouvoir donner mon avis ou demander de l'aide.
+En tant qu'administrateur, je veux ajouter des informations sur le centre de recyclage, de sorte que je puisse garder la base de données à jour au fil du temps.
+En tant qu'administrateur, je veux voir les journaux d'erreurs des utilisateurs, afin de pouvoir corriger ou passer en revue tous les problèmes auxquels sont confrontés les utilisateurs du système.
+En tant qu'administrateur, je veux embarquer des centres de recyclage sur la plateforme, afin d'augmenter la précision des informations.
+En tant que super-utilisateur, je veux mettre à jour les informations du centre de recyclage, afin de pouvoir fournir les dernières informations sur le centre de recyclage.
+En tant que super-utilisateur, je veux voir les statistiques des utilisateurs, de sorte que je puisse voir en temps réel combien d'utilisateurs ont visité les informations de mon centre de recyclage et leurs déchets recyclables.
+En tant que super-utilisateur, je veux répondre aux questions des utilisateurs, afin de pouvoir répondre à toutes les questions concernant mon centre de recyclage.
+En tant qu'administrateur, je veux pouvoir disposer d'un tableau de bord qui montre les statistiques d'utilisation et les lieux, afin de pouvoir identifier les quartiers où il y a le plus grand nombre de points de dépôt et d'essayer de faire participer plus d'installations.
+En tant qu'administrateur, je veux pouvoir communiquer directement avec les installations, afin de les tenir au courant des fonctionnalités de notre site Web.
+En tant qu'utilisateur, je veux pouvoir parcourir la liste des installations et voir lesquelles sont respectueuses de l'environnement, afin d'être sûr que mes déchets ne laisseront pas une empreinte écologique négative.
+En tant que représentant d'une installation de recyclage, je veux pouvoir mettre à jour mes renseignements et le type de matériel que j'accepte, afin d'éviter tout malentendu avec les utilisateurs.
+En tant que représentant d'une installation de recyclage, je veux avoir accès aux statistiques et aux horaires des utilisateurs, afin de pouvoir ajuster mes heures de travail et/ou mettre à niveau mon équipement et ma capacité afin d'être en mesure d'accueillir de plus grandes quantités de matières recyclables.
+En tant qu'installation de recyclage, je veux pouvoir communiquer directement avec l'administrateur du site et lui faire part de tout problème ou de toute préoccupation que j'ai, afin qu'il les règle.

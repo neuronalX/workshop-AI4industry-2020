@@ -1,0 +1,66 @@
+En tant que développeur, je veux obtenir un paquet de données dans Node, de sorte que je puisse commencer à utiliser les données pour faire des analyses et des visualisations.
+En tant que chercheuse, je veux que Julia reçoive un ensemble de données en quelques secondes, de sorte que je puisse commencer à utiliser les données pour faire des analyses et des visualisations. 
+En tant qu'éditeur, je veux ajouter des informations de type à mes données, afin qu'elles soient plus utiles aux autres et puissent être mieux utilisées avec des outils comme les programmes de visualisation. 
+En tant qu'éditeur, je veux être en mesure de fournir une visualisation des données dans le Data Package, afin de pouvoir fournir mon analyse et montrer mon travail aux utilisateurs des données. 
+En tant que chercheur, je veux pouvoir enregistrer de nouvelles visualisations afin de les partager avec d'autres ou de les inclure dans le Data Package. 
+En tant que chercheur-éditeur, je veux savoir si mes données sont conformes à son profil Data Package, afin de pouvoir avoir confiance dans la validité et l'utilité des données. 
+En tant que chercheur-éditeur, je veux comprendre comment mes données sont invalides, afin de savoir comment les corriger. 
+En tant que chercheur, je veux obtenir un paquet de données dans R en quelques secondes, de sorte que je puisse commencer à utiliser les données pour faire des analyses et des visualisations. 
+En tant que chercheur, je veux obtenir un ensemble de données dans Excel en quelques secondes, de sorte que je puisse commencer à utiliser les données pour faire des analyses et des visualisations. 
+En tant que chercheur, je veux obtenir un Data Package dans SPSS en quelques secondes, afin de pouvoir commencer à utiliser les données pour faire des analyses et des visualisations. 
+En tant que chercheur, je veux obtenir un Data Package dans STATA en quelques secondes, de sorte que je puisse commencer à utiliser les données pour faire des analyses et des visualisations. 
+En tant que Chercheur, je veux être en mesure de traduire mon ensemble de données EML en Data Package, afin de pouvoir bénéficier de la large gamme d'outils disponibles pour les Data Packages. 
+En tant que Chercheur, je veux obtenir un Data Package dans LibreOffice/OpenOffice en quelques secondes, de sorte que je puisse commencer à utiliser les données pour faire des analyses et des visualisations. 
+En tant que développeur, je veux obtenir un paquet de données dans Python en quelques secondes, de sorte que je peux commencer à utiliser les données pour faire des analyses et des visualisations. 
+En tant que développeur, je veux un plugin jQuery pour les paquets de données de base, de sorte que je peux l'utiliser pour appliquer au contrôle de formulaire qui utilise un ensemble de données de base pour l'autocomplétion. 
+En tant que chercheur, je veux intégrer ma feuille de calcul Excel dans un ensemble de données, afin de bénéficier d'un meilleur outillage et d'une meilleure normalisation. 
+En tant que développeur, je veux faire une analyse exploratoire des données en R et opérationnaliser cette analyse en Python, de sorte que je puisse utiliser le meilleur outil pour le travail.
+En tant que développeur, je veux obtenir un paquet de données dans Clojure en quelques secondes, de sorte que je puisse commencer à utiliser les données pour faire des analyses et des visualisations. 
+En tant que développeur, je veux obtenir un Data Package dans Julia en quelques secondes, afin de pouvoir commencer à utiliser les données pour faire des analyses et des visualisations. 
+En tant que développeur, je veux obtenir un paquet de données en C++ en quelques secondes, de sorte que je peux commencer à utiliser les données dans l'analyse et la visualisation. 
+En tant qu'expert en apprentissage machine, j'aimerais empaqueter des ensembles de données ML sous forme de paquets de données, de sorte que je puisse facilement les importer dans ma plate-forme ML, de sorte que je puisse commencer à utiliser les données pour faire des analyses. 
+En tant que développeur, je veux une intégration Elasticsearch, de sorte que je puisse intégrer des données packagées avec des pipelines qui utilisent Elasticsearch. 
+En tant que développeur, je souhaite une intégration SPSS, afin de pouvoir intégrer des données packagées avec des pipelines qui utilisent SPSS. 
+En tant que développeur, je veux une intégration EPrints, afin de pouvoir intégrer des données emballées avec des pipelines qui utilisent EPrints. 
+En tant que développeur, je veux une intégration Mongo, de sorte que je puisse intégrer des données packagées avec des pipelines qui utilisent Mongo. 
+En tant que développeur, je veux une intégration DAT, de sorte que je puisse intégrer des données packagées avec des pipelines qui utilisent DAT. 
+En tant que chercheur-éditeur du gouvernement, je veux ajouter des données de référence générales à mon ensemble de données restreint, afin que mon ensemble de données soit plus utile. 
+En tant que chercheur-éditeur du gouvernement, je veux ajouter des noms généraux de pays à mon jeu de données qui ne contient que des codes de pays, afin que mon jeu de données soit plus lisible. 
+En tant que chercheur-éditeur du gouvernement, je veux ajouter des données de référence sur l'inflation à mon ensemble de données sur les dépenses, afin que les lignes de dépenses de mon ensemble de données soient plus faciles à comprendre. 
+En tant que chercheur-éditeur du gouvernement, je veux cartographier les lignes de mon ensemble de données à l'aide des données géographiques de mon ensemble de données, afin que mon ensemble de données soit plus intéressant pour les utilisateurs non techniques. 
+En tant que chercheur, je veux pouvoir utiliser un vocabulaire contrôlé à distance pour mon ensemble de données, afin d'être certain que la colonne de mon ensemble de données est valide par rapport à une seule liste de termes. 
+En tant que développeur, je veux une intégration DSpace, de sorte que je puisse intégrer des données packagées avec des pipelines qui utilisent Dspace. 
+En tant que développeur, je veux l'intégration de Feather, de sorte que je puisse intégrer des données packagées avec des pipelines qui utilisent Feather. 
+En tant que développeur, je veux l'intégration HDF5, afin de pouvoir intégrer des données emballées avec des pipelines qui utilisent HDF5.
+En tant que Chercheur, travaillant avec des données, je veux une intégration Microsoft Power BI, de sorte que je puisse importer des ensembles de données sans les télécharger localement. 
+En tant que chercheur-éditeur, je veux une intégration avec Zenodo, pour ne pas avoir à retaper les informations descriptives de mon jeu de données lorsque je le stocke dans GitHub. 
+En tant qu'éditeur, j'aimerais une intégration avec Open Refine, de sorte que je puisse sortir des paquets de données nettoyés. 
+En tant que chercheur-éditeur, je veux publier des ensembles de données à CKAN, afin que mes données puissent être trouvées et que je puisse avoir une API de données. 
+En tant que ResearcherDeveloper, j'aimerais pouvoir importer/exporter à partir de MS-SQL, afin de pouvoir utiliser les Data Packages dans des workflows qui impliquent MS-SQL. 
+En tant que Chercheur, travaillant avec des données en NetCDF, je veux l'intégration de NetCDF, de sorte que je puisse stocker mes données en texte clair tout en conservant ses métadonnées. 
+En tant que Chercheur, je souhaite une intégration avec https://data.mendeley.com/, afin de pouvoir valider mes données lors de leur acquisition par le service.
+En tant qu'éditeur, je souhaite une intégration avec Excel, afin de pouvoir éditer des paquets de données nettoyés. 
+En tant qu'éditeur, je souhaite stocker mes données rapidement et facilement en ligne. 
+En tant que gestionnaire de référentiel, je veux un outil qui permette aux chercheurs/utilisateurs d'ajouter facilement des métadonnées de base à leurs données de recherche, afin qu'elles soient plus faciles à trouver et donc plus utiles. 
+En tant que chercheur-éditeur, je veux valider mes données avec un minimum de clics, de sorte que je puisse avoir confiance dans la validité et l'utilité des données. 
+En tant qu'éditeur, je veux pouvoir vérifier que chaque fois que je mets à jour mes données, elles sont toujours bonnes, de sorte que je puisse détecter rapidement les erreurs et stocker des données fiables. 
+En tant que DeveloperWrangler, je veux utiliser un outil en ligne de commande qui permet à met met de valider les données, afin que je puisse avoir confiance dans la validité et l'utilité des données rapidement et dans le contexte de mon workflow en ligne de commande. 
+En tant que développeur, je veux un service en ligne connecté à mon référentiel de données qui valide les données lors de la mise à jour, afin que je puisse déléguer la validation des données à un tiers. 
+En tant qu'éditeur du gouvernement, je veux qu'il soit facile de prouver que les données que nous avons publiées sont valides, de sorte que je puisse affirmer que nous respectons nos engagements en matière de transparence. 
+En tant que militant de Civic Tech, je veux faciliter l'évaluation de la qualité des données stockées par le gouvernement, afin de m'assurer que le gouvernement respecte ses engagements en matière de transparence. 
+En tant qu'éditeur, je souhaite intégrer un aperçu interactif de mes données sur mon site, afin d'encourager les utilisateurs à s'assurer qu'il s'agit des données qui leur conviennent. 
+En tant qu'éditeur, je veux intégrer un bouton de prévisualisation sur mon site, afin que les utilisateurs puissent prévisualiser les données et être encouragés à savoir qu'il s'agit des données correctes pour eux.
+En tant qu'éditeur, je veux savoir combien d'utilisateurs ont prévisualisé un ensemble de données, afin de savoir comment l'intérêt pour un ensemble de données se rapporte à son nombre réel de téléchargements. 
+En tant que développeur, je souhaite personnaliser un assistant existant pour mon type de données spécifique, afin de pouvoir offrir à mes utilisateurs une expérience utilisateur exceptionnelle.
+En tant qu'éditeur, je veux ajouter des métadonnées utiles ou ajouter de nouvelles colonnes de données pour rendre l'ensemble de données plus utile. 
+En tant qu'éditeur, je veux empaqueter des étapes reproductibles pour obtenir un certain état de données, donc ma méthodologie est transparente et peut être réexécutée par d'autres. 
+En tant que DeveloperDataWrangler, je veux stocker mon Data Package dans GitHub et le faire automatiquement stocker dans CKAN, de sorte que j'obtienne une API de données et que mon jeu de données soit listé dans un catalogue approprié. 
+En tant que chercheur, je veux un outil qui peut générer des statistiques de base sur un ensemble de données, de sorte que je puisse avoir un aperçu rapide des données. 
+En tant que DeveloperPublisher, je veux un outil pour créer un résumé de données intégrable via iframe, de sorte que je puisse intégrer des résumés de données entre les sites. 
+En tant que Chercheur, je veux une application qui génère un point final d'API de réconciliation OpenRefine à partir d'un paquet de données tabulaires, afin que je puisse l'utiliser pour nettoyer les données salissantes. 
+En tant que Chercheur, je veux une application qui crée des paquets de données proxy pour des sources de données fiables et bien connues, de sorte que je puisse charger des données de haute qualité en utilisant l'outil Data Package. 
+En tant que RepositoryManagerResearcher, je veux une application qui agit comme un service de match-making pour les données d'emballage, de sorte que les propriétaires sont appariés avec des Data Packagers. 
+En tant que développeur, j'aimerais créer un protocole de socket web pour les outils de données Frictionless, de sorte que je puisse facilement utiliser des paquets de données avec des outils d'analyse de données supplémentaires. 
+En tant qu'éditeur, j'aimerais disposer d'un outil pour vérifier la persistance de la disponibilité des données après leur publication. 
+En tant que chercheur-éditeur, je veux préciser le financement qui a contribué à la création d'un ensemble de données donné, afin que les organismes de financement puissent identifier le financement, la source pour un ensemble de données donné. 
+En tant que chercheur-éditeur, je veux ajouter un DOI à un ensemble de données, de sorte que je puisse le citer dans des documents stockés avec les données. 

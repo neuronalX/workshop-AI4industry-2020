@@ -1,0 +1,97 @@
+En tant que membre du site, je veux me décrire sur ma propre page d'une manière semi-structurée, afin que les autres puissent apprendre à me connaître.
+En tant que membre du site, je veux remplir une demande pour devenir un praticien certifié en Mêlée, afin de pouvoir obtenir ce titre.
+En tant que Praticien, je veux inclure des détails supplémentaires à mon sujet dans ma page de profil, afin de pouvoir présenter mon expérience.
+En tant que membre du site, je veux remplir une demande pour devenir un Certified Scrum Trainer, afin de pouvoir enseigner les cours CSM et CSPO et certifier les autres.
+En tant que formateur, je veux inclure des détails supplémentaires sur moi dans ma page de profil, afin que les autres puissent en savoir plus sur moi et décider si je suis le bon formateur pour eux.
+En tant que Praticien, je veux écrire un article pour le site avec un petit graphique montré avec l'article montrant mon statut CSP ou CST, pour que les autres connaissent mes certifications en lecture.
+En tant que formateur, je veux inscrire mes prochains cours dans mon profil et inclure un lien vers une page détaillée sur chacun d'eux, afin que les participants potentiels puissent trouver mes cours.
+En tant que membre du site, je veux voir les profils des autres membres, de sorte que je puisse trouver d'autres personnes avec qui je pourrais vouloir me connecter.
+En tant que membre du site, je veux rechercher des profils basés sur quelques champs, afin de pouvoir en trouver d'autres avec lesquels je pourrais vouloir me connecter.
+En tant que membre du site, je veux marquer mon profil comme privé, auquel cas seul mon nom apparaîtra, afin que personne ne puisse apprendre des choses sur moi que je ne veux pas partager.
+En tant que membre du site, je veux marquer mon adresse email comme privée même si le reste de mon profil ne l'est pas, afin que personne ne puisse me contacter.
+En tant que membre du site, je veux envoyer un courriel à n'importe quel membre via un formulaire, afin que nous puissions nous connecter.
+En tant qu'administrateur de site, je veux lire les demandes d'entraînement et de formation et les approuver ou les rejeter, afin que seuls les candidats admissibles puissent devenir FSC ou ÉSC.
+En tant qu'administrateur de site, je veux modifier n'importe quel profil de membre du site, de sorte que je puisse corriger les problèmes pour les membres.
+En tant que visiteur du site, je veux lire les dernières nouvelles sur la page d'accueil, afin de rester au courant des nouvelles agiles.
+En tant que visiteur du site, je veux accéder aux anciennes nouvelles qui ne sont plus sur la page d'accueil, afin de pouvoir accéder aux choses dont je me souviens du passé ou que les autres me mentionnent.
+En tant que visiteur du site, je veux envoyer des nouvelles par courriel à l'éditeur, afin qu'elles puissent être prises en considération pour la publication.
+En tant qu'éditeur de site, je veux fixer les dates suivantes sur une nouvelle : Date de début de publication, Date des anciennes nouvelles, Date de fin de publication, afin que les articles soient publiés aux dates appropriées.
+En tant que membre du site, je souhaite m'abonner à un flux RSS de nouvelles, afin de rester suffisamment et facilement informé.
+En tant qu'éditeur de site, je veux attribuer des numéros de priorité aux articles d'actualité, afin de pouvoir indiquer les articles que je veux voir figurer le plus en évidence sur le site.
+En tant que visiteur du site, je veux voir une liste de tous les cours de certification à venir et je peux les consulter s'il y en a beaucoup, afin de pouvoir choisir le meilleur cours pour moi.
+En tant que visiteur du site, je veux voir une liste de tous les autres cours à venir et je peux les consulter si nécessaire, afin de pouvoir choisir le meilleur cours pour moi.
+En tant que visiteur du site, je veux voir une liste de tous les événements à venir, de sorte que je puisse décider si je veux y assister.
+En tant que formateur, je veux créer un nouveau cours ou un nouvel événement, afin que les visiteurs du site puissent le voir.
+En tant que formateur, je veux créer un autre cours ou un autre événement pour lequel je dois payer des frais d'inscription, de sorte que je n'énumère pas les événements que je n'ai pas vraiment l'intention de tenir.
+En tant qu'administrateur de site, je veux créer un autre cours ou événement sans frais d'inscription, de sorte que l'Alliance Scrum ne se facture pas elle-même les rassemblements Scrum qu'elle organise.
+En tant qu'administrateur de site, je veux fixer les frais d'inscription par autre cours ou événement, de sorte que nous ayons une certaine souplesse quant aux frais à facturer à l'avenir.
+En tant que formateur, je veux mettre à jour un de mes cours ou événements existants, afin qu'il reflète des informations précises.
+En tant que formateur, je souhaite supprimer un de mes cours ou événements, de sorte qu'il n'est plus répertorié si j'annule pour une raison quelconque.
+En tant que formateur, je souhaite copier un de mes cours ou événements, afin d'en créer un nouveau.
+En tant qu'administrateur du site, je veux supprimer n'importe quel cours ou événement, de sorte que je puisse supprimer des choses qui ne se produiront plus.
+En tant qu'éditeur de site, je veux mettre à jour n'importe quel cours ou événement, de sorte que je puisse corriger des choses que l'auteur original n'a pas.
+En tant que formateur, je veux transformer un cours en événement ou un événement en cours, afin de pouvoir classer correctement tout ce qui a été entré incorrectement.
+En tant que visiteur du site, je souhaite disposer d'une option de recherche avancée qui me permette de remplir un formulaire de critères de recherche, afin de trouver rapidement ce que je recherche.
+En tant que visiteur du site, je veux voir un cours que je peux cliquer sur le nom du formateur et être amené au profil du formateur, afin de pouvoir en savoir plus sur un formateur avant de m'inscrire à un cours.
+En tant que visiteur du site, je souhaite m'abonner à un flux RSS des cours et événements à venir, afin d'être au courant sans avoir à visiter le site.
+En tant que visiteur du site, je veux lire les FAQ afin d'obtenir des réponses rapides.
+En tant qu'éditeur de site, je veux maintenir une section FAQ, afin que le support soit moins facile à répondre aux questions.
+En tant que visiteur du site, je souhaite effectuer une recherche en texte intégral dans la FAQ, afin de trouver rapidement une réponse.
+En tant que membre du site, je souhaite télécharger les derniers documents de formation et de méthodologie en format PDF, afin de les avoir en ma possession.
+En tant que visiteur, je veux télécharger des présentations, des PDF, etc. sur Scrum, afin d'apprendre d'eux ou de les utiliser.
+En tant que membre du site, je veux faire défiler une liste d'offres d'emploi, de sorte que je puisse voir s'il y en a qui m'intéressent.
+En tant que recruteur, je souhaite publier une annonce de recherche d'aide, afin de pouvoir attirer des candidats.
+En tant qu'administrateur du site, je veux approuver chaque annonce d'aide avant qu'elle n'arrive sur le site, afin que nous soyons sûrs de la qualité des offres d'emploi qui y sont répertoriées.
+En tant qu'administrateur du site, je veux recevoir un courriel chaque fois qu'une offre d'emploi est soumise, afin d'en être informé et de pouvoir décider si je veux l'afficher.
+En tant que membre du site, je souhaite m'abonner à un flux RSS des offres d'emploi disponibles, afin de pouvoir les lire sans avoir à visiter le site.
+En tant qu'administrateur de site, je veux éditer et supprimer les annonces d'aide, afin de pouvoir corriger de petits problèmes ou m'assurer que chaque annonce respecte les directives du site.
+En tant qu'administrateur du site, je veux cesser de publier des offres d'emploi sur le site 30 jours après leur publication, afin que les postes qui ont pu être pourvus ne soient pas encore répertoriés lorsque le recruteur oublie de revenir et de supprimer l'annonce.
+En tant que recruteur, je veux pouvoir prolonger une annonce de 30 jours supplémentaires en visitant le site et en mettant à jour l'annonce, afin que mon annonce reste active.
+En tant qu'annonceur, je veux recevoir par courriel un rappel sept jours avant l'expiration d'une annonce, afin que je puisse aller la prolonger.
+En tant que visiteur du site, je veux lire un nouvel article à la une environ une fois par semaine, afin d'être au courant de tout ce qui se passe.
+En tant qu'éditeur du site, je veux inclure un teaser avec chaque article, afin que les visiteurs du site puissent décider s'ils veulent lire le reste.
+En tant que membre du site qui a lu un teaser sur la première page, je veux lire l'article en entier afin de pouvoir finir les articles qui me plaisent.
+En tant qu'éditeur du site, je veux ajouter un article sur le site, afin que le site ait beaucoup de contenu.
+En tant qu'éditeur de site, je veux définir les dates de publication, l'ancienne date d'article et les dates d'arrêt de publication des articles, de sorte que les articles apparaissent seulement pendant les périodes appropriées.
+En tant qu'éditeur de site, je veux être en mesure de désigner si un site fait ou non la page d'accueil, de sorte que le meilleur contenu est mis en évidence le plus en évidence.
+En tant qu'éditeur du site, je veux avoir un assez bon contrôle sur la façon dont l'article, de sorte que les articles sont visuellement attrayants.
+En tant que visiteur du site, je veux cliquer sur le lien de l'article teaser pour me conduire directement au corps de l'article. pas à une autre configuration teaser, de sorte que je peux facilement terminer l'article.
+En tant qu'éditeur de site, je veux pouvoir indiquer si un article est accessible au public ou uniquement aux membres, afin que les visiteurs soient incités à devenir membres.
+En tant que visiteur du site, je veux pouvoir lire certains de vos articles, afin de pouvoir apprendre sans avoir à m'inscrire sur le site.
+En tant que membre du site, je veux avoir un accès complet à tous les articles, afin qu'il y ait un avantage à être membre.
+En tant que visiteur du site, je veux faire une recherche plein texte du corps de l'article, du titre et du nom de l'auteur, de sorte que je puisse trouver ce que je veux.
+En tant que visiteur du site, je souhaite m'abonner à un flux RSS d'articles, afin de pouvoir les lire sans avoir à visiter le site.
+En tant que visiteur du site, je veux poster des commentaires sur les articles, afin que d'autres puissent les lire.
+En tant qu'éditeur de site, je veux avoir une zone bien en vue sur la page d'accueil où je peux mettre des annonces spéciales pas nécessairement des nouvelles ou des articles, de sorte que je puisse leur donner une exposition supplémentaire.
+En tant qu'éditeur de site, je veux avoir une certaine flexibilité quant à l'endroit où les choses apparaissent, afin de pouvoir m'adapter à différents types de contenu.
+En tant que formateur, je veux que les prochains cours soient ce que je veux que les visiteurs remarquent, afin qu'ils s'inscrivent et qu'il y ait un avantage pour mon adhésion.
+En tant que visiteur du site, je veux voir du nouveau contenu lorsque je viens sur le site, de sorte que je revienne plus souvent.
+En tant que visiteur du site, je veux avoir des articles qui m'intéressent et qui sont faciles d'accès, afin que je vienne sur le site pour mes nouvelles agiles et pour apprendre.
+En tant que visiteur du site, je veux savoir dès que je visite ce qu'est Scrum et pourquoi il a besoin d'une alliance, afin que je ne rebondisse pas immédiatement oﬀ la page.
+En tant que visiteur du site, je veux savoir, en parcourant la page d'accueil, ce qu'est un MCS et pourquoi j'aimerais en être un, afin d'en savoir plus.
+En tant que visiteur du site, je veux pouvoir retourner à la page d'accueil rapidement et facilement, afin de ne pas me perdre en naviguant.
+En tant que visiteur du site, je veux voir une liste des articles les plus populaires sur le site, de sorte que je suis le plus susceptible de lire le plus important ou le meilleur contenu.
+En tant que formateur, je veux avoir l'assurance que personne ne peut soumettre les mêmes réponses plusieurs fois et fausser mes résultats, afin que mes évaluations soient exactes.
+En tant que formateur, je souhaite être informé des résultats des enquêtes sur mes cours, afin de pouvoir les lire.
+En tant qu'administrateur du site, je veux voir les résultats pour chaque formateur et les moyennes pour la classe, de sorte que je puisse identifier toutes les valeurs aberrantes ou les problèmes possibles.
+En tant que visiteur du site, je veux voir l'évaluation d'un formateur, de sorte que je puisse choisir un cours auprès d'un formateur approprié.
+En tant que formateur, je veux afficher ma note sur ma page de profil, afin que les visiteurs du site puissent choisir judicieusement.
+En tant que visiteur du site, je veux voir une section du site Web qui m'enseigne les bases de ce qu'est Scrum, pour que je puisse l'apprendre rapidement.
+En tant qu'éditeur de site, je veux créer le contenu de la section What Is Scrum, afin qu'il soit là pour les visiteurs.
+En tant que visiteur du site, je veux voir les listes sur le site de tous les maîtres de mêlée certifiés, les praticiens, les formateurs et les propriétaires de produits certifiés Scrum.
+En tant que MCS, je veux que mon nom soit inscrit dans le registre sans devenir membre du site, afin que les employeurs ou autres puissent vérifier ma certification.
+En tant que formateur, je veux charger un fichier Excel sur le site, afin que les participants au cours soient ajoutés aux dossiers de Scrum Alliance.
+En tant qu'administrateur du site, je veux voir toutes les classes dans un état en attente, de sorte que je puisse approuver toutes celles qui doivent être approuvées.
+En tant qu'administrateur de site, je veux déplacer les personnes d'une classe de formateur d'un état en attente vers le registre une fois que j'ai reçu la preuve de paiement du formateur.
+En tant que MCS, je veux recevoir un courriel m'accueillant à l'Alliance Scrum et me demandant de m'inscrire ou d'activer mon adhésion une fois que mon nom aura été chargé dans le registre.
+En tant qu'éditeur de site, je veux éditer le contenu de l'email envoyé automatiquement aux nouveaux Certified Scrum Masters et Product Owners, de sorte que je n'ai pas besoin d'impliquer un programmeur dans les simples éditions d'email.
+En tant qu'entreprise, je souhaite adhérer à la Scrum Alliance en payant une cotisation d'entreprise, de sorte que je puisse montrer le soutien de l'entreprise à Scrum.
+En tant que commanditaire corporatif, je veux afficher mon logo sur une page de commanditaires corporatifs, afin que d'autres puissent voir l'appui de la compagnie à Scrum.
+En tant qu'entreprise sponsor, je veux faire apparaître mon logo de manière aléatoire sur la page d'accueil, afin que d'autres personnes voient le soutien de l'entreprise à Scrum.
+En tant que MCS, je veux qu'on me demande des frais une fois que mon statut de praticien aura été approuvé, afin que mon statut de praticien puisse être activé.
+En tant que CST, je veux payer une cotisation annuelle, afin que mon statut de CST soit actif.
+En tant qu'administrateur de site, je veux fixer les frais annuels pour les membres, les praticiens et les formateurs, afin que les frais puissent être fixés sans impliquer un programmeur.
+En tant que membre, je souhaite recevoir un rappel et un lien pour renouveler mon adhésion.
+En tant que membre, je veux que le système m'envoie par courriel un nouveau mot de passe ou un rappel de mot de passe puisque j'ai des problèmes de mémoire à court terme.
+En tant que formateur, je veux lire des informations qui ne concernent que les formateurs, afin que la Scrum Alliance puisse partager facilement des informations avec moi.
+En tant qu'éditeur de site, je veux poster des informations dans une section réservée aux formateurs, afin que seuls les formateurs puissent les voir.

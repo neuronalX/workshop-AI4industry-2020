@@ -1,0 +1,102 @@
+En tant qu'administrateur système, je veux exécuter un script qui installe le noeud Neurohub sur un système d'exploitation Ubuntu vierge.
+En tant qu'administrateur système, je veux exécuter un script qui teste pour voir si une installation Neurohub fonctionne correctement.
+En tant qu'ingénieur de publication, je veux appeler un script pour exécuter des tests d'acceptation contre une installation Neurohub et rapporter les résultats.
+En tant qu'investigateur, je veux voir les résultats des tests d'acceptation, afin de comprendre à quel point le noeud Neurohub est complet.
+En tant qu'opérateur d'IRM, je veux enregistrer numériquement les réponses que les sujets donnent lorsqu'ils remplissent des formulaires papier.
+En tant qu'utilisateur, je veux naviguer en avant et en arrière entre les journaux de bord et les pages du journal de bord sans avoir à utiliser le bouton retour de mon navigateur.
+En tant qu'administrateur de laboratoire, je veux mettre en thème les graphiques/couleurs de l'interface Web.
+En tant qu'administrateur système, je veux installer les dépendances Neurohub sur une machine Ubuntu 10.04 LTS en utilisant les outils de gestion de paquets Ubuntu normaux.
+En tant que chercheur, je veux créer une page de journal de bord pour une expérience et joindre un fichier à cette page.
+En tant que chercheur, je veux créer une page de journal de bord pour une expérience et y joindre un répertoire contenant plusieurs fichiers.
+En tant que chercheur, je veux télécharger des fichiers avant de les joindre à un journal de bord.
+En tant que chercheur, je veux télécharger des fichiers avant de les joindre à une page de journal à l'aide de l'interface Web.
+En tant que chercheur, je veux télécharger des fichiers avant de les joindre à une page de journal à l'aide d'un lecteur réseau mappé.
+En tant que chercheur, je veux joindre des fichiers actuellement non attachés à une page du journal de bord.
+En tant que chercheur, je veux recevoir une alerte de tous les fichiers non attachés qui se trouvent dans mon espace de travail.
+En tant que chercheur, je souhaite télécharger des fichiers joints à une expérience à l'aide de mon navigateur Web.
+En tant que chercheur, je souhaite accéder aux fichiers stockés dans mon espace de travail Neurohub, en utilisant un lecteur réseau attaché à mon poste de travail.
+En tant que chercheur, je veux créer une page de journal de bord.
+En tant qu'ingénieur de publication, je veux configurer des versions nocturnes qui exécutent automatiquement une installation Neurohub sur un système d'exploitation vierge, exécutent des tests et rapportent les résultats, sans nécessiter de saisie/interaction manuelle.
+En tant que superviseur, je veux voir ce que mes chercheurs faisaient à une date ou à une période donnée.
+En tant qu'utilisateur, je veux télécharger des fichiers volumineux de plus de 1 Go.
+En tant qu'utilisateur, je veux attribuer des balises aux fichiers que j'ai téléchargés.
+En tant qu'utilisateur, je veux attribuer des informations personnalisées à un fichier en fonction de son type.
+En tant qu'utilisateur, je veux filtrer les fichiers que j'obtiens des résultats de recherche en fonction de leur type.
+En tant qu'utilisateur, je veux utiliser les balises que j'utilise font partie d'un vocabulaire contrôlé.
+En tant qu'utilisateur, je veux que les fichiers de données téléchargés soient non modifiables.
+En tant qu'utilisateur, je veux faire des liens prédictifs entre les fichiers.
+En tant qu'utilisateur, je veux limiter ce qui peut être saisi à un champ de métadonnées.
+En tant qu'utilisateur, je veux avoir des fichiers que je pourrais accidentellement supprimer pour pouvoir les restaurer.
+En tant qu'utilisateur, je veux revenir à une version plus ancienne d'un fichier téléchargé.
+En tant qu'utilisateur, je veux avoir un moyen visuel de visualiser des fichiers particuliers téléchargés sur une période de temps.
+En tant qu'utilisateur, je veux associer des fichiers impliqués dans une expérience.
+En tant qu'administrateur système, je veux avoir un protocole de sauvegarde géré pour le système.
+En tant qu'utilisateur, je veux entrer des métadonnées / décrire un protocole d'expérimentation avant même qu'un fichier soit créé.
+En tant qu'administrateur de laboratoire, je veux avoir un accès accru au système pour aider les utilisateurs réguliers. 
+En tant qu'utilisateur, je veux lier entre elles des séries expérimentales pour construire une expérience.
+En tant qu'administrateur de laboratoire, je souhaite créer des modèles de pages avec des champs de métadonnées personnalisés.
+En tant qu'utilisateur, je veux capturer les mêmes métadonnées pour chaque fichier créé dans une exécution expérimentale.
+En tant qu'administrateur de laboratoire, je veux une façon de gérer les stocks de souches de vers qui soit intégrée à Wormbase.
+En tant qu'utilisateur, je veux rechercher et télécharger des protocoles expérimentaux lisibles par l'homme.
+En tant qu'utilisateur, je souhaite modifier ou brancher un protocole expérimental, tout en conservant l'original.
+En tant qu'utilisateur, je veux voir comment un protocole expérimental a évolué au fil du temps.
+En tant qu'utilisateur, je veux créer un protocole et assigner des métadonnées à chaque cerf.
+En tant qu'utilisateur, je veux prouver définitivement que j'ai créé une page à une certaine date.
+En tant qu'utilisateur, je veux gérer les références / documents que j'ai étudiés.
+En tant qu'utilisateur, je veux rechercher spécifiquement des fichiers plutôt que des pages de journal de bord.
+En tant qu'utilisateur, je veux limiter ma recherche à un ensemble particulier de journaux de bord.
+En tant qu'utilisateur, je veux limiter les résultats de ma recherche à une ou plusieurs sections du journal de bord d'un ou plusieurs journaux de bord.
+En tant qu'utilisateur, je souhaite télécharger des fichiers directement depuis la page de résultats de recherche.
+En tant qu'utilisateur, je veux voir la provenance de la page dans les résultats de recherche.
+En tant qu'utilisateur, je veux joindre plusieurs fichiers à la fois à une page du journal de bord.
+En tant qu'utilisateur, je veux télécharger plusieurs fichiers des résultats de recherche en une seule fois.
+En tant qu'utilisateur, je veux dessiner des tableaux en utilisant des balises HTML dans le contenu d'une page du journal de bord.
+En tant que membre du laboratoire, je veux voir les événements et les réservations d'équipement au sein du groupe.
+En tant qu'utilisateur, je souhaite stocker des vidéos sur le comportement des vers avec un encodage qui peut être analysé par le logiciel d'analyse des vers écrit par Christopher James.
+En tant qu'administrateur système, je souhaite migrer les données d'une ancienne version de NeuroHub vers la version actuelle.
+En tant qu'utilisateur, je veux que le système transfère également les nouvelles importantes à une liste de diffusion externe.
+En tant qu'utilisateur, je souhaite consulter et mettre à jour l'inventaire des équipements et consommables présents dans le centre.
+En tant qu'utilisateur, je veux avoir une feuille de calcul hébergée dans la page Web du Neurohub, afin de pouvoir modifier et calculer les coûts en collaboration avec d'autres personnes tout en travaillant sur la proposition.
+En tant que superviseur, je veux créer des formulaires de rétroaction au sein de Neurohub, que mes étudiants peuvent remplir et soumettre, afin de me fournir des commentaires sur le cours qu'ils ont suivi.
+En tant qu'utilisateur, je veux avoir l'option de dire à Neurohub de pousser le contenu posté sur mon fil Twitter en même temps.
+En tant qu'utilisateur, je veux garder une entrée du journal de bord privée ou la partager avec des individus plutôt qu'avec des groupes.
+En tant qu'utilisateur, je veux que les détails de l'exécution du workflow soient enregistrés dans un journal neurohub lors de l'exécution d'un workflow.
+En tant qu'utilisateur, je veux que mes Tweets Twitter apparaissent dans Neurohub, pour que les autres chercheurs du centre puissent voir ce que je fais.
+En tant qu'utilisateur, je veux voir les calendriers partagés du groupe via la page Web des Neurohub Nodes ainsi que sur mon appareil mobile.
+En tant qu'utilisateur, je veux synchroniser les événements créés dans NeuroHub avec un calendrier Web tel que Google Calendar.
+En tant que chercheur, je veux avoir la possibilité d'insérer des symboles grecs dans mon journal de bord.
+En tant qu'utilisateur, je veux avoir la possibilité de déplacer plusieurs fichiers et de les réorganiser à l'aide du navigateur de fichiers Neurohub tout en traitant les données.
+En tant que chercheur, je souhaite diriger mon client Mendeley vers un référentiel de documents de recherche partagé à l'échelle du groupe et recevoir des notifications via Mendeley lorsque de nouveaux contenus sont ajoutés.
+En tant que chercheur, je veux disposer d'un support électronique pour le suivi des ensembles de données qui ont été utilisés, produits ou modifiés dans le cadre d'une expérience particulière.
+En tant qu'utilisateur, je veux un mécanisme de partage électronique des articles et des notes avec d'autres chercheurs, afin que nous puissions collaborer efficacement.
+En tant que chercheur, je veux avoir des services pour appuyer la conservation à long terme des données, afin d'être certain que les données ne seront pas " perdues " avec le temps.
+En tant que chercheur, je veux avoir un affichage chronologique de plusieurs fichiers de données et des images qui leur sont associées, afin de pouvoir comparer les données tirées d'expériences à des dates particulières.
+En tant que chercheur, je veux avoir accès à distance à mes données pour travailler à l'extérieur du laboratoire, de sorte que je puisse continuer à travailler efficacement en dehors du laboratoire.
+En tant que chercheur, je veux partager les comptes rendus post-expérience avec d'autres chercheurs, afin que d'autres puissent plus facilement reproduire mon travail.
+En tant que chercheur, je veux collecter des données sous la forme d'une bibliothèque de données, qui pourront ensuite être utilisées par une ou plusieurs expériences qui seront définies à un stade ultérieur.
+En tant que chercheur, je veux indiquer dans mon journal de bord électronique quelles données expérimentales sont bonnes/mauvaises, cacher les mauvaises données, mais les conserver dans le système au cas où elles seraient utiles dans le futur.
+En tant que chercheur, je veux disposer d'un système permettant de fournir des métadonnées normalisées que tous les chercheurs du centre (et d'ailleurs) pourront utiliser, afin que nous puissions mieux comprendre les données des autres.
+En tant que chercheur, je veux que les images physiologiques soient annotées avec des métadonnées standard, afin que mes données puissent ensuite être recherchées et comprises.
+En tant que chercheur, je veux avoir la possibilité de joindre des métadonnées standard pour les observations comportementales (et vidéo), afin que mes données puissent être recherchées et comprises plus tard.
+En tant que chercheur, je veux avoir la possibilité de joindre des métadonnées standard pour les réponses aux médicaments, afin que mes données puissent être recherchées et comprises par la suite.
+En tant que chercheur, je veux avoir la possibilité de rechercher des images de cellules à l'aide de métadonnées standard.
+En tant que chercheur, je veux qu'au moins quelques métadonnées soient automatiquement insérées lorsque de nouvelles données sont ajoutées au système.
+En tant que chercheur, je veux avoir la possibilité de joindre des métadonnées détaillées aux données et aux entrées que je crée.
+En tant que chercheur, je veux avoir la possibilité de sélectionner un modèle partiellement pré-rempli qui contient déjà des métadonnées couramment saisies tout en ajoutant de nouvelles données au système, afin de ne pas perdre de temps à insérer les mêmes métadonnées encore et encore pour chaque fichier individuel ou entrée de journal.
+En tant qu'utilisateur, je veux être sûr que les métadonnées existantes correspondant au fichier ne sont pas perdues lorsque je déplace un fichier vers un nouvel emplacement.
+En tant que chercheur, je veux avoir la possibilité de former des liens entre les objets, par exemple, le fichier A est une analyse du fichier B, afin que les données puissent être recherchées par type et par association.
+En tant que chercheur, je veux pouvoir localiser les fichiers d'expériences à l'aide de métadonnées, peu importe où se trouvent ces fichiers.
+En tant que chercheur, je veux que toutes les données que j'ai écrites à l'ERV soient protégées contre toute modification ou suppression, afin que les données originales puissent toujours être retracées jusqu'à une expérience et un point dans le temps.
+En tant qu'utilisateur, je veux avoir la possibilité de garder mes données privées sur le système et de ne partager que les données que je considère comme devant être partagées.
+En tant que chercheur, je veux avoir la possibilité de stocker tous les intrants d'une expérience afin que la provenance des résultats puisse être vérifiée.
+En tant que chercheur, je veux avoir la possibilité de rechercher des fichiers par type et format de fichier.
+En tant que chercheur, je veux avoir la possibilité de télécharger des répertoires et des fichiers en masse avec un minimum d'effort.
+En tant que chercheur, je veux associer les métadonnées à l'ensemble du groupe à un moment donné une fois le téléchargement en masse terminé, de sorte que j'ai le temps de réfléchir aux valeurs appropriées pour les métadonnées.
+En tant qu'utilisateur, je veux avoir la possibilité de modifier le partage et la propriété de plusieurs fichiers.
+En tant que chercheur, je veux avoir la possibilité de limiter les données que je partage à certains chercheurs ou groupes de chercheurs.
+En tant que chercheur, je veux avoir la possibilité de localiser et d'accéder aux données que mes collègues veulent partager.
+En tant que chercheur, je veux avoir la possibilité d'interagir avec un système de contrôle des révisions afin de pouvoir suivre les modifications apportées aux fichiers au fil du temps.
+En tant que JuniorResearcher, je veux avoir la capacité de récolter des connaissances au sein du groupe, de sorte que je puisse apprendre de chercheurs plus expérimentés.
+En tant que chercheur, je veux sécuriser l'accès à distance au noeud Neurohub lorsque je travaille en dehors du laboratoire.
+En tant que chercheur, je veux disposer d'un dépôt au niveau du groupe pour partager les articles/examens/commentaires avec d'autres chercheurs.
+En tant que chercheur, je souhaite que les détails du plan de workflow ainsi que l'historique d'exécution et les résultats soient enregistrés dans Neurohub lors de l'exécution d'un workflow.

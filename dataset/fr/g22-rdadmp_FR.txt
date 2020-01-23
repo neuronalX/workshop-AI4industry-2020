@@ -1,0 +1,83 @@
+En tant qu'IP, je veux enregistrer correctement toutes les métadonnées afin d'assurer le bon fonctionnement du projet en cas de changement de personnel.
+En tant que chercheur, je veux indiquer où mes données seront stockées pendant et après le projet, afin qu'elles restent accessibles à toutes les étapes du cycle de vie des données.
+En tant que chercheur, je veux importer des métadonnées que j'ai capturées avec un outil de métadonnées, afin de ne pas avoir à les capturer à nouveau dans un DMP.
+En tant que gestionnaire de données, je veux savoir comment les données sont utilisées, afin de pouvoir élaborer des scénarios d'utilisation plus détaillés et d'appuyer les scénarios avec les chercheurs.
+En tant que propriétaire d'un référentiel, je veux pouvoir vérifier la provenance prévue des données qui seront soumises à la fin d'un projet, afin de pouvoir calculer les frais de soumission nécessaires et vérifier si elles appartiennent à notre groupe cible.
+En tant que responsable informatique, je veux connaître les besoins en ressources informatiques au début du cycle de vie du projet, afin de pouvoir planifier l'acquisition des ressources.
+En tant qu'IP, je veux planifier le type de données que je veux enregistrer/stocker, afin de m'assurer qu'il sera possible de les stocker.
+En tant que membre du personnel informatique, je veux connaître les exigences de sécurité des données, afin de savoir quel type de mesures de sécurité appliquer.
+En tant que gestionnaire de données, je veux avoir la description des ensembles de données recueillies qui sont utilisés ou mis à jour tout au long du cycle de vie du projet, afin de m'assurer que les descriptions sont à jour et d'ajouter des détails à mesure que l'étude avance.
+En tant que chercheur, je veux savoir quels sujets sont obligatoires et similaires dans tous les PGD, afin de gagner du temps en le rédigeant rapidement.
+En tant que gestionnaire de données, je veux savoir quel est le contenu des données, de sorte que je puisse décider à quelle collection ou dépôt les données correspondent.
+En tant que chercheur principal, je veux consigner des renseignements sur mon médecin désigné afin qu'un comité d'éthique puisse en vérifier la conformité aux normes éthiques.
+En tant qu'officier juridique, je veux connaître la sensibilité des données, afin de pouvoir établir des options de partage.
+En tant que bibliothécaire de données, je veux extraire des pointeurs du DMP vers les métadonnées contenues dans d'autres systèmes, afin de pouvoir importer ces métadonnées dans un catalogue de données.
+En tant que membre du personnel informatique, je souhaite disposer d'une estimation du volume de données produit, afin de pouvoir planifier la consommation globale de stockage.
+En tant qu'administrateur, je veux savoir qui a financé le projet et quelles sont ses exigences, afin de pouvoir suivre les obligations spécifiques des bailleurs de fonds.
+En tant que gestionnaire d'archives, je veux connaître le statut juridique des données, afin de pouvoir appliquer les exigences légales en conséquence.
+En tant que gestionnaire de données, je veux savoir quels types de données seront produits ou collectés, afin de pouvoir déterminer quels services et fonctionnalités de soutien de base sont nécessaires.
+En tant que membre du personnel informatique, je veux savoir quels types de données seront produits ou collectés, afin de pouvoir déterminer quels services et fonctionnalités de support de base sont nécessaires.
+En tant que gestionnaire d'archives, je veux connaître à l'avance la période de conservation des données, afin de mieux organiser le service en adaptant les actions de conservation.
+En tant que gestionnaire de données, je veux documenter tous les droits nécessaires à la gestion des données, de sorte que je puisse conserver et préserver les données.
+En tant que gestionnaire de données, je veux savoir quel est le contenu des données, afin de pouvoir vérifier si l'expertise nécessaire pour maintenir la réutilisabilité intellectuelle est disponible.
+En tant que chef de recherche, je veux avoir accès aux identificateurs persistants des ensembles de données fournis dans le PVQ, afin de pouvoir vérifier que le PVQ a été mis en œuvre.
+En tant que bailleur de fonds, je veux pouvoir lire les coûts de la gestion des données du PVQ, afin de pouvoir vérifier si nos politiques fonctionnent comme prévu.
+En tant que chercheur, je veux que le médecin désigné préremplisse l'information que j'ai déjà entrée dans d'autres systèmes institutionnels, de sorte que je n'ai pas à entrer de nouveau l'information pour m'assurer que le médecin désigné contient des renseignements exacts et normalisés.
+En tant qu'intervenant, je veux savoir quand le plan de gestion des données a été créé ou mis à jour, afin de savoir si le plan est à jour ou s'il doit être mis à jour.
+En tant que partie prenante, je veux savoir qui est responsable du PVQ, afin de pouvoir leur demander des détails supplémentaires.
+En tant que partie prenante, je souhaite avoir des références à la proposition de projet, afin de pouvoir consulter d'autres informations générales.
+En tant que gestionnaire de métadonnées, je veux avoir une brève description du projet, afin d'être informé de la description des métadonnées.
+En tant que recteur, je veux savoir combien de données seront stockées, afin de pouvoir planifier les ressources à long terme.
+En tant que gestionnaire de données, je veux connaître le calendrier de collecte des données afin de pouvoir planifier la gestion des données.
+En tant que bibliothécaire de données, je souhaite importer des informations administratives concernant un projet dans DMP, afin de pouvoir pré-remplir le DMP.
+En tant que gestionnaire, je veux connaître toutes les ressources et services utilisés pour les données, afin de pouvoir estimer le coût réel du projet.
+En tant que gestionnaire d'archives, je souhaite réutiliser les informations concernant le format de fichier, afin de pouvoir appliquer des contrôles automatisés pour la validation du fichier.
+En tant que chercheur, je veux savoir combien de ressources sont nécessaires pendant le projet, afin de pouvoir calculer les coûts.
+En tant que chercheur, je veux extraire la description des données recueillies, afin de pouvoir les réutiliser pour la rédaction d'un document de données.
+En tant que chercheur, je veux enregistrer les publications de recherche dans le dépôt institutionnel ou le CRIS avec les dossiers du PVQ, afin de pouvoir produire des rapports sur les résultats de recherche d'un projet.
+En tant que chercheur, je veux relier les publications de recherche du dépôt institutionnel ou du CRIS aux dossiers du PVQ, afin de pouvoir produire des rapports sur les résultats de recherche d'un projet.
+En tant que chercheur, je veux stocker les accords relatifs aux données de tiers utilisées dans un projet, afin que les données puissent être citées, attribuées et utilisées correctement.
+En tant que responsable de l'éthique, je veux être informé des données, afin de pouvoir vérifier la sensibilité des données.
+En tant qu'opérateur de référentiel, je veux connaître le type de données, afin de pouvoir évaluer la taille de stockage et le système.
+En tant que chercheur, je veux connaître les coûts afin de pouvoir planifier mes recherches.
+En tant que gestionnaire de référentiel, j'ai besoin de détails sur le type de données, afin de pouvoir vérifier si l'archivage peut être organisé.
+En tant que responsable informatique, je veux savoir dans quelle mesure les données sont sécurisées, afin de pouvoir garantir leur conformité juridique.
+En tant que bailleur de fonds, je veux savoir dans quelle mesure les données sont sécurisées, afin de m'assurer qu'elles sont conformes à la loi.
+En tant que directeur d'un centre de recherche, je veux recevoir régulièrement des rapports sommaires des données de recherche afin de comprendre les tendances dans l'utilisation des données par le personnel et les étudiants de troisième cycle.
+En tant que responsable des études supérieures, je veux recevoir régulièrement des rapports sommaires sur les données de recherche, afin de comprendre les tendances dans l'utilisation des données parmi le personnel et les étudiants de troisième cycle.
+En tant qu'agent de soutien à la recherche, je veux m'assurer du respect des règles des bailleurs de fonds, afin de m'assurer que tous les coûts seront acceptés.
+En tant que bailleur de fonds, je veux pouvoir vérifier tous les dépôts mentionnés dans un PGD, afin de pouvoir vérifier si le projet a respecté nos règles de financement.
+En tant qu'IP, je veux planifier le type de données que je veux stocker, afin de m'assurer qu'il sera possible de les stocker.
+En tant qu'enquêteur privé, je veux savoir dans quelle mesure les données sont sécurisées, afin de m'assurer qu'elles sont conformes à la loi.
+En tant que directeur de l'intégrité de la recherche, je veux avoir accès aux rapports contenant les détails des projets de recherche dans lesquels les données sont classées comme sensibles ou très sensibles, afin de pouvoir confirmer que les protocoles de sécurité sont appliqués à ces données.
+En tant qu'archiviste, je souhaite obtenir des informations sur le volume de données à préserver à un stade précoce, afin de pouvoir fournir l'infrastructure de stockage adéquate.
+En tant que chercheur, je veux savoir combien de temps il me faudra pour archiver afin de pouvoir planifier les prochaines étapes.
+En tant qu'IP, je veux savoir à qui appartiennent les données, afin de savoir ce que j'ai le droit d'en faire.
+En tant que gestionnaire de données, je veux avoir des références à la documentation des données et à leur processus de création, afin que les données puissent être réutilisées et gérées.
+En tant que gestionnaire d'archives, je veux m'assurer que les métadonnées détaillées sont associées aux données afin qu'elles soient compréhensibles pour les futurs utilisateurs.
+En tant que gestionnaire de données, je veux savoir quels types de données seront produits ou collectés, afin de m'assurer que les ressources techniques et le savoir-faire technique nécessaires sont disponibles.
+En tant que membre du personnel informatique, je veux savoir quels types de données seront produits ou collectés, afin de m'assurer que les ressources techniques et le savoir-faire technique nécessaires sont disponibles.
+En tant que membre du personnel informatique, je veux savoir comment les données sont utilisées, afin de pouvoir déterminer quels types de services et de fonctionnalités de base sont nécessaires.
+En tant que gestionnaire de données, je veux savoir si les données recueillies dépendent d'autres ensembles de données provenant de ma propre institution ou d'autres institutions, afin de pouvoir m'assurer que ces dépendances sont maintenues.
+En tant que membre du personnel informatique, je veux savoir quels formats sont utilisés, afin de pouvoir déterminer quels types de services techniques et de fonctionnalités sont requis.
+En tant que membre du personnel informatique, je veux savoir avec quel logiciel ou technologie les données sont produites ou utilisées, afin de pouvoir déterminer quel type de services techniques et de fonctionnalités sont requis.
+En tant que gestionnaire de données, je veux savoir quelles informations sont nécessaires pour réutiliser les données, afin que l'on puisse vérifier si toutes les informations nécessaires sont disponibles pour les chercheurs intéressés à réutiliser les données.
+En tant que gestionnaire de données, je veux savoir quels formats sont utilisés, afin de savoir quelle technologie ou quelle information de base pourrait être nécessaire pour utiliser les données.
+En tant que gestionnaire de données, je veux savoir si les données peuvent être reproduites efficacement, afin de pouvoir déterminer si et comment les données doivent être stockées.
+En tant que gestionnaire de données, je veux savoir avec quel logiciel ou quelle technologie les données sont produites ou utilisées, afin de savoir quelle technologie ou quelle information de base pourrait être nécessaire pour (ré)utiliser les données.
+En tant que responsable de l'évaluation de la recherche, je veux m'assurer que toutes les données sont citées correctement avec notre affiliation, afin qu'elles soient prises en compte dans le décompte des citations.
+En tant qu'administrateur, je veux vérifier que toutes les données ont le niveau de sécurité approprié, afin de pouvoir démontrer leur conformité.
+En tant que gestionnaire de données, je veux connaître les exigences de sécurité des données, afin de pouvoir vérifier si les données peuvent être conservées en toute sécurité.
+En tant que gestionnaire des données institutionnelles, je veux être en mesure d'extraire les ensembles de données qui sont soumis à des dépôts externes, afin de pouvoir les ajouter à un catalogue de données institutionnelles.
+En tant que gestionnaire de données institutionnel, je veux connaître les exigences en matière de confidentialité et de sécurité des données, afin de pouvoir planifier le bon système de stockage et partager les autorisations.
+En tant que chercheur, je veux voir les sections sur l'établissement des coûts par d'autres chercheurs de mon ministère, afin de voir si nous pouvons partager les postes de gestionnaires de données.
+En tant que chercheur, je veux voir les sections sur les rôles soumises par d'autres chercheurs de mon ministère, afin de voir si nous pouvons partager les postes de gestionnaires de données.
+En tant que chercheur, je veux voir les sections sur les responsabilités soumises par d'autres chercheurs de mon ministère, afin de voir si nous pouvons partager les postes de gestionnaires de données.
+En tant que responsable de la gestion des données du corps professoral, je veux voir les sections sur l'établissement des coûts, afin de m'assurer d'avoir suffisamment d'expertise en gestion des données pour appuyer le projet.
+En tant que responsable de la gestion des données du corps professoral, je veux voir les sections sur les rôles, afin de m'assurer d'avoir suffisamment d'expertise en gestion des données pour appuyer le projet.
+En tant que responsable de la gestion des données du corps professoral, je veux voir les sections sur les responsabilités, afin de m'assurer d'avoir suffisamment d'expertise en gestion des données pour appuyer le projet.
+En tant que gestionnaire de données, je souhaite clarifier les droits nécessaires à la réutilisation des données, afin qu'il soit légal de réutiliser les données.
+En tant que chercheur, je veux consigner mon intention de partager les données que j'ai recueillies en vertu d'une licence particulière, afin que les autres chercheurs qui utilisent les données comprennent les droits d'utilisation.
+En tant que gestionnaire de données, je veux planifier l'anonymisation des données afin de protéger le mieux possible la vie privée des personnes qui participent à la recherche tout en assurant la réutilisabilité des données.
+En tant que gestionnaire de référentiel, je souhaite disposer de métadonnées dans d'autres langues, afin de pouvoir archiver des données multilingues.
+En tant que gestionnaire de données, je veux savoir si le PVQ a été approuvé, afin de pouvoir passer aux prochaines étapes requises.

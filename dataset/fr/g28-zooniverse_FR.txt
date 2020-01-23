@@ -1,0 +1,60 @@
+En tant qu'utilisateur, je veux rechercher et découvrir de la musique en utilisant l'identification du contenu ou la prise d'empreintes digitales.	
+En tant qu'utilisateur, je souhaite rechercher et découvrir de la musique en fonction de mon profil.	
+En tant qu'utilisateur, je veux rechercher et découvrir de la musique basée sur d'autres utilisateurs similaires au mien.	
+En tant qu'utilisateur, je souhaite rechercher et découvrir de la musique ou des tonalités de retour d'appel similaires à une vidéo musicale donnée en fonction de la similarité du contenu.	
+En tant qu'utilisateur, je veux rechercher et découvrir de la musique en exploitant des métadonnées enrichies et des balises d'image, afin de trouver des artistes apparentés, de nouveaux genres ou d'autres pistes d'écoute pertinentes.
+En tant qu'utilisateur, je veux télécharger des vidéos balisées et avoir des balises disponibles pour toutes les étapes de traitement ultérieures.	
+En tant qu'utilisateur, je veux visionner des séquences d'images miniatures de segments vidéo.	
+En tant qu'utilisateur, je veux obtenir des informations sur des éléments et des segments vidéo similaires.	
+En tant qu'utilisateur, je veux obtenir des informations sur des éléments et des segments vidéo similaires sur le plan perceptif.	
+En tant qu'utilisateur, je souhaite recevoir des recommandations de contenu de profils similaires.
+En tant qu'utilisateur, je souhaite recevoir des recommandations de contenu basées sur les événements d'actualité les plus pertinents dans ma région.	
+En tant qu'utilisateur, je souhaite identifier les personnes dans les vidéos et recevoir des informations les concernant.	
+En tant qu'utilisateur, je souhaite identifier les produits dans les vidéos et recevoir des informations connexes.	
+En tant qu'utilisateur, je souhaite identifier les logos des radiodiffuseurs dans les vidéos et recevoir des informations à leur sujet.	
+En tant qu'utilisateur, je souhaite identifier les marques dans les vidéos et recevoir des informations à leur sujet.	
+En tant qu'utilisateur, je veux prendre une photo ou télécharger une image, de sorte que je suis recommandé avec des vidéos liées à cette photo ou image.	
+En tant qu'utilisateur, je veux me promener, accéder au contenu à l'aide d'une carte géographique et être informé s'il y a des vidéos couvrant la zone, des monuments ou tout autre point d'intérêt pertinent.	
+En tant qu'utilisateur, je souhaite rechercher des éléments de contenu à l'aide de la reconnaissance vocale automatique.	
+En tant qu'administrateur, je veux voir, valider et éditer la segmentation des vidéos.	
+En tant qu'administrateur, je veux annoter les segments vidéo d'actualités et extraire un sujet pour chaque segment.	
+En tant qu'administrateur, je veux filtrer et classer les vidéos en fonction de leur qualité A/V.	
+En tant qu'administrateur, je veux obtenir une évaluation rapide pour savoir si le matériel audio a été édité avant le téléchargement.	
+En tant qu'administrateur, je veux pré-filtrer le contenu de nudité.	
+En tant qu'administrateur, je veux pré-filtrer le contenu à l'aide de la recherche basée sur les informations de low≠level asset information.	
+En tant qu'administrateur, je veux valider automatiquement les contenus ingérés pour violation de copyright.	
+En tant qu'administrateur, je veux pré-filtrer le contenu à l'aide de la recherche sur high≠level des informations sur les ressources telles que les métadonnées et les balises reconnues par le système ou fournies par l'utilisateur.	
+En tant qu'administrateur de Zooniverse, je veux évaluer l'intérêt, l'attrait ou la complexité d'une image basée sur l'analyse automatisée, les annotations des citoyens et les commentaires sur Talk.	
+En tant qu'administrateur de Zooniverse, je veux détecter quand un scientifique devrait être invité à regarder un sujet, en me basant sur les annotations et les informations des commentaires de Talk.
+En tant qu'administrateur de Zooniverse, je veux identifier les types de volontaires.
+En tant qu'administrateur de Zooniverse, je veux préclassifier les images du Zoo Galaxy à l'aide de simples fonctions d'image low≠level	
+En tant qu'administrateur de Zooniverse, je veux détecter automatiquement les images Snapshot Serengeti sans animaux classifiables.
+En tant qu'administrateur de Zooniverse, je veux effectuer une détection automatique des séries d'images en cas de dysfonctionnement de l'horodatage des images Snapshot Serengeti.	
+En tant qu'administrateur de Zooniverse, je veux effectuer une préclassification automatique des espèces animales dans Snapshot Serengeti.	
+En tant qu'administrateur de Zooniverse, je veux effectuer une préclassification automatique des attributs des animaux dans Snapshot Serengeti.	
+En tant qu'administrateur de Zooniverse, je veux effectuer la détection automatique du numéro d'animal dans Snapshot Serengeti.	
+En tant qu'administrateur de Zooniverse, je souhaite effectuer une segmentation ou une localisation automatique du plancton dans Plankton Portal.	
+En tant qu'administrateur de Zooniverse, je veux détecter automatiquement les images du Portail Plancton sans plancton classifiable.	
+En tant qu'administrateur de Zooniverse, je veux effectuer une détection automatique de la taille ou de l'orientation du plancton dans les images du Portail Plancton.	
+En tant qu'administrateur de Zooniverse, je veux effectuer une préclassification automatique des espèces de plancton dans les images du Portail Plancton.	
+En tant qu'administrateur de Zooniverse, je veux effectuer une analyse automatique du mouvement du ver pour réduire la durée de la vidéo dans Worm Watch Lab.	
+En tant qu'administrateur de Zooniverse, je veux détecter automatiquement l'heure dans une vidéo de Worm Watch Lab où le ver pond un oeuf.	
+En tant qu'administrateur de Zooniverse, je veux détecter des caractéristiques importantes telles que les zones inondées, les dommages, les abris temporaires, les routes bloquées, etc. dans les images satellites.	
+En tant qu'administrateur de Zooniverse, je veux évaluer la probabilité/le poids de la classification d'un volontaire en fonction de son expérience.	
+En tant qu'administrateur de Zooniverse, je veux effectuer un pré-filtrage des images pour supprimer les artefacts tels que les étoiles brillantes et les erreurs de lecture de caméra.	
+En tant qu'administrateur de Zooniverse, je veux détecter les objets en mouvement et transitoires dans les images.	
+En tant qu'administrateur de Zooniverse, je veux supprimer les bruits de fond et les sons gênants des fichiers audio.	
+En tant qu'administrateur de Zooniverse, je veux regrouper les appels de baleines qui sont similaires.	
+En tant qu'administrateur de Zooniverse, je veux identifier le nombre de baleines entendues dans un seul fichier audio.	
+En tant qu'administrateur de Zooniverse, je veux savoir quand je dois interrompre un volontaire.	
+En tant qu'administrateur de Zooniverse, je veux savoir si je dois interrompre un volontaire avec du texte, une image ou une vidéo.	
+En tant qu'administrateur de Zooniverse, je veux savoir quand je dois former un volontaire.	
+En tant qu'administrateur de Zooniverse, je veux savoir si je dois éduquer un volontaire avec du texte, une image ou une vidéo.	
+En tant qu'administrateur de Zooniverse, je veux savoir quelle éducation je dois donner à un volontaire.	
+En tant qu'administrateur de Zooniverse, je veux savoir quand un volontaire a fait un commentaire intéressant sur un sujet.	
+En tant qu'administrateur de Zooniverse, je veux savoir quand Zoonibot doit commenter un sujet.
+En tant qu'administrateur de Zooniverse, je veux savoir quand Zoonibot doit donner une explication.	
+En tant qu'administrateur de Zooniverse, je veux savoir ce que Zoonibot devrait dire à un volontaire.	
+En tant qu'administrateur de Zooniverse, je veux regrouper les sujets par similarité.	
+En tant qu'administrateur de Zooniverse, je veux recommander différents projets aux volontaires sur la base de leurs expériences passées.	
+En tant qu'administrateur, je veux voir un résumé des articles, afin de les réutiliser.

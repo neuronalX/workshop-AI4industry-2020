@@ -1,0 +1,100 @@
+En tant que gestionnaire de dépôt, je veux connaître toutes les collections et tous les objets du DAMS dont j'ai la garde. 
+En tant que gestionnaire de référentiel, je veux pouvoir mettre à jour les informations du référentiel en un seul endroit et être assuré que les mises à jour seront diffusées à tous les endroits pertinents. 
+En tant que gestionnaire de dépôt, je veux limiter l'accès des conservateurs aux biens de mon unité aux membres du personnel de mon unité et aux gestionnaires de la DAMS ayant un accès universel. 
+En tant qu'utilisateur, je veux lister toutes les collections et objets du DAMS qui appartiennent à une unité de bibliothèque. 
+En tant qu'utilisateur, je veux pouvoir contacter des dépôts. 
+En tant que gestionnaire DAMS, je veux pouvoir lister toutes les collections formelles représentées dans le DAMS ainsi que les relations appropriées. 
+En tant que gestionnaire de dépôt, je veux connaître toutes les collections dont j'ai la responsabilité de la conservation.
+En tant que gestionnaire de dépôt, je veux composer des collections, en limitant la collection aux objets ayant la même provenance, en limitant la collection à représenter une partie d'une collection ayant une provenance particulière, ou en assemblant une collection d'autres collections et objets.
+En tant que gestionnaire de dépôt, je tiens à dire qu'une collection est liée à une autre collection.  
+En tant que gestionnaire de référentiel, je veux décrire une collection, y compris son titre, ses dates, sa ou ses langues, et bien d'autres aspects.
+En tant que gestionnaire de référentiel, je veux indiquer les noms liés à la collection en tant que créateur, source ou sujet. 
+En tant que gestionnaire de dépôt, je veux indiquer les sujets liés à la collection. 
+En tant que gestionnaire de dépôt, je veux indiquer d'autres descriptions de la collection qui sont en dehors du DAMS et d'importance probable pour les utilisateurs. 
+En tant que gestionnaire de référentiel, je veux connaître tous les événements qui se produisent dans une collection. 
+En tant qu'utilisateur, je veux pouvoir naviguer par collections dans le DAMS. 
+En tant qu'utilisateur, je veux pouvoir limiter ma recherche à une ou plusieurs collections spécifiques. 
+En tant que gestionnaire de référentiel, je veux connaître tous les composants appartenant à un objet. 
+En tant que gestionnaire de référentiel, je veux connaître tous les fichiers appartenant à un objet. 
+En tant que gestionnaire de référentiel, je veux décrire un objet, y compris son titre, date(s), langue(s), et autres aspects. 
+En tant que gestionnaire de référentiel, je veux indiquer les noms liés à un objet. 
+En tant que gestionnaire de référentiel, je veux indiquer les sujets qui sont liés à un objet. 
+En tant que gestionnaire de référentiel, je veux indiquer le statut de copyright d'un objet. 
+En tant que gestionnaire de référentiel, je veux indiquer tous les statuts pertinents pour un objet. 
+En tant que gestionnaire de référentiel, je veux indiquer toute licence pertinente pour un objet. 
+En tant que gestionnaire de référentiel, je veux indiquer tout autre droit pertinent à un objet. 
+En tant que gestionnaire de référentiel, je veux indiquer toutes les versions externes ou les descriptions d'un objet qui peuvent être d'une importance probable pour un utilisateur. 
+En tant que gestionnaire de référentiel, je veux connaître tous les événements effectués sur un objet au cours de son cycle de vie. 
+En tant que gestionnaire DAMS, je veux savoir à quel référentiel appartient un objet. 
+En tant que responsable DAMS, je veux savoir à quelle(s) collection(s) appartient un objet. 
+En tant qu'utilisateur, je veux savoir à quel référentiel appartient un objet. 
+En tant qu'utilisateur, je veux savoir à quelle(s) collection(s) appartient un objet. 
+En tant qu'utilisateur, je veux voir tous les composants d'un objet. 
+En tant qu'utilisateur, je veux avoir accès aux fichiers de contenu d'un objet. 
+En tant qu'utilisateur, je veux connaître le statut des droits d'un objet. 
+En tant qu'utilisateur, je veux connaître d'autres versions de l'objet ou de ses métadonnées qui pourraient m'être utiles. 
+En tant que gestionnaire de référentiel, je veux représenter la structure physique et/ou logique d'un objet. 
+En tant que gestionnaire de référentiel, je veux lister tous les composants, dans leur ordre approprié, pour un objet. 
+En tant que gestionnaire de référentiel, je veux lier, le cas échéant, un composant à un autre composant ou à un fichier. 
+En tant que gestionnaire de référentiel, je veux décrire chaque composante au besoin, y compris le titre, la ou les dates, la ou les langues et les autres facettes. 
+En tant que gestionnaire de référentiel, je veux indiquer tout nom pertinent pour le composant. 
+En tant que gestionnaire de référentiel, je veux indiquer tout sujet qui est pertinent pour le composant. 
+En tant que gestionnaire de référentiel, je veux indiquer si le composant a un statut de copyright différent de celui de l'objet dans son ensemble. 
+En tant que gestionnaire de référentiel, je tiens à indiquer si un statut se rapporte au composant, en dehors de l'objet dans son ensemble. 
+En tant que gestionnaire de référentiel, je tiens à indiquer si une licence se rapporte au composant, en dehors de l'objet dans son ensemble. 
+En tant que gestionnaire de référentiel, je tiens à indiquer si d'autres droits se rapportent au composant, en dehors de l'objet dans son ensemble. 
+En tant que gestionnaire de référentiel, je veux connaître tous les événements se produisant à un composant au cours de son cycle de vie. 
+En tant que gestionnaire DAMS, je veux présenter dans l'ordre qui leur est attribué tous les composants d'un objet. 
+En tant qu'utilisateur, je veux pouvoir voir et naviguer dans la hiérarchie des composants d'un objet. 
+En tant que gestionnaire de référentiel, je veux connaître tous les fichiers de contenu dans le DAMS pour les objets de mon référentiel. 
+En tant que gestionnaire de référentiel, je veux associer un fichier de contenu à un objet ou à un composant objet. 
+En tant que gestionnaire de référentiel, je veux connaître tout événement survenu à un fichier de contenu pour l'un des objets de mon référentiel. 
+En tant que gestionnaire DAMS, je veux indiquer aux gestionnaires de la préservation les aspects d'un fichier maître utiles pour surveiller son intégrité et son obsolescence imminente, y compris sa taille, sa date de création, son format et sa version. 
+En tant que gestionnaire DAMS, je veux indiquer aux gestionnaires de préservation la somme de contrôle et la méthode de somme de contrôle pour chaque fichier maître pour un objet donné. 
+En tant que gestionnaire DAMS, je veux indiquer les informations de capture source pour un fichier lorsque c'est utile de le faire. 
+En tant que gestionnaire DAMS, je veux connaître, via les gestionnaires de préservation, tout objet dont l'intégrité ou l'authenticité est en question ou qui a été mis à jour dans un format de fichier plus courant. 
+En tant qu'utilisateur, je veux avoir accès aux fichiers de contenu qui composent un objet, afin de pouvoir décider si un fichier est trop gros pour être téléchargé.
+En tant que gestionnaire de référentiel, je veux fournir un titre, sous toutes ses formes utiles, pour les collections, les objets et les composants objets de mon référentiel. 
+En tant que gestionnaire de référentiel, je veux savoir tout changement survenant dans les titres des collections, objets et composants d'objets du référentiel. 
+En tant que gestionnaire DAMS, je veux présenter les collections, les objets et les composants d'objets par titre. 
+En tant qu'utilisateur, je veux rechercher des collections, des objets et des composants d'objets par titre. 
+En tant que gestionnaire de référentiel, je veux indiquer pour un objet ou un composant objet le lieu de publication, l'éditeur, l'édition, etc, le cas échéant. 
+En tant que gestionnaire de référentiel, je veux être informé de toute modification apportée aux informations d'origine d'un objet, y compris ses composants. 
+En tant qu'utilisateur, je veux connaître pour un objet ou ses composants le lieu de publication, l'éditeur, etc.
+En tant que gestionnaire de référentiel, je veux décrire les différentes facettes d'une collection, d'un objet ou d'un composant d'objet qui ne sont pas adressables via le titre, la date, le nom et les entités sujet. 
+En tant que gestionnaire de référentiel, je veux connaître toutes les modifications apportées aux notes des collections, objets ou composants d'objets de mon référentiel. 
+En tant qu'utilisateur, je veux connaître les diverses facettes d'une collection, d'un objet ou d'un composant d'objet, comme la portée et le contenu, les divers identificateurs, les conditions régissant l'utilisation/accès, etc.  
+En tant que gestionnaire de référentiel, je veux indiquer la ou les langues présentes dans une collection, un objet ou un composant objet. 
+En tant que gestionnaire de référentiel, je veux être informé de tout changement apporté au(x) langage(s) indiqué(s) pour une collection, un objet ou un composant objet. 
+En tant qu'utilisateur, je veux effectuer mes recherches de collections, d'objets ou de composants d'objets dans un langage spécifique. 
+En tant que gestionnaire de référentiel, je veux enregistrer un enregistrement de nom pour chaque identité unique associée aux collections et objets de mon référentiel. 
+En tant qu'utilisateur, je veux rechercher des collections et des objets par leur nom. 
+En tant que gestionnaire de référentiel, je veux indiquer qu'un nom pertinent pour une collection, un objet ou un composant d'objet a un rôle spécifique, comme illustrateur, photographe, etc. 
+En tant qu'utilisateur, je veux effectuer des recherches par nom pour un rôle spécifique tel qu'illustrateur, photographe, etc. 
+En tant que gestionnaire de référentiel, je veux indiquer tous les sujets qui sont pertinents pour une collection, un objet ou un composant objet. 
+En tant qu'utilisateur, je veux rechercher des collections, des objets et des composants d'objets par titre, sujet, genre/forme, nom géographique, fonction, profession, nom, cartographie, etc. 
+En tant que gestionnaire de référentiel, je veux indiquer les coordonnées géographiques pour toute ressource qui croit utile à un utilisateur final. 
+En tant qu'utilisateur, je veux voir le contexte géographique d'une collection, d'un objet ou d'un composant objet, le cas échéant. 
+En tant que gestionnaire de référentiel, je veux indiquer toutes les autres versions ou descriptions pertinentes d'une ressource qui sont externes au DAMS. 
+En tant qu'utilisateur, je veux connaître toutes les autres versions ou descriptions pertinentes de la ressource. 
+En tant que gestionnaire de référentiel, je veux savoir si la somme de contrôle pour les fichiers de contenu de mon référentiel qui ont changé.
+En tant que gestionnaire DAMS, je veux connaître, via le gestionnaire de préservation, tous les fichiers pour lesquels la somme de contrôle a changé depuis le dernier enregistrement.
+En tant que gestionnaire de référentiel, je veux connaître, le cas échéant, le matériel et les logiciels utilisés pour générer un fichier de contenu. 
+En tant que gestionnaire DAMS, je veux savoir quels objets ou composants d'objets sont encore sous copyright et ne peuvent être affichés sans licence ou sans risque. 
+En tant que gestionnaire DAMS, je veux savoir quand le droit d'auteur d'un objet ou d'un composant d'objet est susceptible d'expirer en vertu de la loi sur le droit d'auteur de ma juridiction. 
+En tant que gestionnaire DAMS, je veux savoir quand le statut de copyright d'un objet ou d'un composant objet est modifié, manuellement ou automatiquement. 
+En tant qu'utilisateur, je veux savoir si un objet ou un composant d'objet est protégé par le droit d'auteur et, si possible, qui en est le titulaire. 
+En tant que responsable DAMS, je veux connaître tous les statuts relatifs à un objet ou un composant objet. 
+En tant que gestionnaire DAMS, je veux savoir quand la pertinence d'un statut pour un objet ou un composant d'objet doit expirer. 
+En tant que gestionnaire DAMS, je veux savoir quand l'application d'un statut à un objet ou un composant d'objet a été modifiée, manuellement ou automatiquement. 
+En tant que responsable DAMS, je veux savoir si le contenu protégé par le droit d'auteur a une licence applicable. 
+En tant que gestionnaire DAMS, je veux savoir si un objet ou un composant objet est soumis à une politique de bibliothèque qui restreint l'accès d'une quelconque manière. 
+En tant que gestionnaire DAMS, je veux savoir quand l'application d'une politique de bibliothèque à un objet ou un composant objet doit expirer. 
+En tant que gestionnaire DAMS, je veux savoir si l'application d'une politique de bibliothèque à un objet ou un composant objet a été modifiée, manuellement ou automatiquement.
+En tant que gestionnaire DAMS, je veux connaître toutes les utilisations d'un objet ou d'un composant objet qui sont autorisées ou limitées par le statut des droits de l'objet ou du composant objet.
+En tant que gestionnaire DAMS, je veux connaître les dates auxquelles une autorisation ou une restriction est active. 
+En tant que responsable DAMS, je veux savoir quand les actes autorisés et restreints et/ou leurs dates actives sont modifiés. 
+En tant que gestionnaire DAMS, je souhaite suivre tous les événements programmés pour enregistrement dans le DAMS. 
+En tant que responsable DAMS, je souhaite connaître le(s) agent(s) responsable(s) de la réalisation d'un événement. 
+En tant que responsable DAMS, je veux savoir quand l'événement s'est produit. 
+En tant que gestionnaire DAMS, je veux connaître le résultat de l'événement, par exemple, l'objet NN a été supprimé. 

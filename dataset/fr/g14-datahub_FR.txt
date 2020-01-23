@@ -1,0 +1,67 @@
+En tant qu'éditeur, je veux publier un ensemble de données, de sorte que je puisse visualiser l'ensemble de données avec quelques personnes.
+En tant qu'éditeur, je veux publier un ensemble de données, de sorte que je puisse le partager publiquement avec tout le monde.
+En tant qu'éditeur, je veux m'inscrire pour ouvrir un compte, afin de pouvoir publier mon paquet de données dans le registre et d'avoir un compte éditeur pour publier mon paquet de données.
+En tant que Visiteur, je veux m'inscrire via github ou google, afin de ne pas avoir à entrer beaucoup d'informations et à mémoriser mon mot de passe pour un autre site.
+En tant qu'éditeur, je veux savoir ce que je dois faire après m'être inscrit, afin de pouvoir m'y mettre rapidement.
+En tant qu'administrateur, je veux inviter quelqu'un à rejoindre la plate-forme, afin qu'il puisse commencer à contribuer ou à utiliser des données.
+En tant qu'éditeur, je souhaite importer mon ensemble de données dans le registre, de sorte que mes données soient accessibles en ligne en permanence. 
+En tant qu'éditeur, je veux configurer mon client, de sorte que je puisse commencer à publier des paquets de données.
+En tant qu'éditeur, je veux utiliser une commande de publication pour mettre à jour un paquet de données qui est déjà dans le registre, afin qu'il y apparaisse.
+En tant qu'éditeur, je veux dépublier un paquet de données, de sorte qu'il ne soit plus visible pour personne.
+En tant qu'éditeur, je souhaite supprimer définitivement un paquet de données afin qu'il ne prenne plus d'espace de stockage.
+En tant qu'éditeur, je veux valider les données que je suis sur le point de publier dans le registre, de sorte que je publie de bonnes données et que je sache que je le fais.
+En tant qu'éditeur, je veux que les données soient validées lorsque je les publie, afin de savoir immédiatement si j'ai accidentellement cassé mes données ou si j'ai des bogues et que je peux prendre des mesures pour les corriger.
+En tant que consommateur, je veux savoir que les données que je télécharge sont bonnes et fiables, de sorte que je n'ai pas à les vérifier moi-même ou à rencontrer des bogues gênants par la suite.
+En tant qu'éditeur, je veux publier un paquet de données où ses données de ressources sont stockées sur mes serveurs, mais le registre cache une copie de ces données, de sorte que si mes données sont perdues ou cassées, j'ai toujours une copie que les gens peuvent utiliser.
+En tant que consommateur, je veux pouvoir obtenir les données d'un paquet de données même si les données d'origine ont été déplacées ou supprimées, de sorte que je puisse toujours les utiliser et que mon application ou mon analyse continue de fonctionner.
+En tant qu'éditeur, je veux publier un paquet de données dans l'interface utilisateur, afin qu'il soit disponible et publié.
+En tant qu'éditeur, je veux créer un paquet de données dans l'interface utilisateur pour qu'il soit disponible et publié.
+En tant qu'éditeur, je veux pouvoir restaurer le paquet de données supprimé via cli, de sorte qu'il soit de nouveau visible et disponible pour consultation, téléchargement.
+En tant qu'éditeur, je veux effacer les paquets de données supprimés, de sorte que les paquets de données supprimés soient à nouveau visibles.
+En tant qu'éditeur, je veux pouvoir prévisualiser les vues du paquet de données actuel à l'aide de cli avant la publication, de sorte que je puisse affiner les déclarations json de la section de vue du paquet de données pour obtenir un résultat très esthétique.
+En tant que consommateur, je veux consulter un ensemble de données en ligne, afin de savoir si c'est l'ensemble de données que je veux.
+En tant qu'éditeur, je veux montrer au monde entier comment sont mes données publiées, afin qu'elles attirent immédiatement l'attention du consommateur. 
+En tant que consommateur, je veux consulter l'ensemble des données afin de savoir si je veux ou non cet ensemble de données.
+En tant qu'éditeur, je veux prévisualiser un paquet de données que j'ai préparé, afin de pouvoir vérifier qu'il fonctionne et partager les résultats.
+En tant que consommateur, je veux voir combien de données ont été téléchargées, de sorte que je peux choisir le plus populaire dans le cas où il existe plusieurs alternatives pour mon cas d'utilisation.
+En tant qu'éditeur, je veux voir des exemples réels de paquets publiés afin de comprendre à quel point le format des paquets de données et le registre sont utiles et simples.
+En tant que consommateur, je veux voir rapidement quelques exemples de paquets de données, afin d'avoir une idée de ce qu'il y a sur ce site et s'il est utile de regarder plus loin.
+En tant que consommateur, je veux faire des recherches dans les ensembles de données afin de trouver ceux que je veux.
+En tant que consommateur, je veux faire une recherche basée sur la description d'un paquet de données, de sorte que je puisse trouver un paquet qui se rapporte à certains mots clés.
+En tant que consommateur, je veux télécharger le paquet de données dans un seul fichier, de sorte que je n'ai pas à télécharger à la main le descripteur et chaque ressource.
+En tant que développeur, je veux utiliser le paquet de données comme une lib de noeud dans mon projet, de sorte que je peux compter sur lui en utilisant mon cadre normal de dépendance.
+En tant que consommateur, je veux charger un paquet de données de R, de sorte que je puisse immédiatement commencer à jouer avec lui.
+En tant qu'analyste de données, je veux télécharger un ensemble de données afin de pouvoir l'étudier et m'en servir pour déduire de nouvelles données ou générer de nouvelles idées.
+En tant qu'analyste de données, je veux mettre à jour les données téléchargées précédemment, afin de pouvoir travailler avec les données les plus récentes.
+En tant que Consommateur, je souhaite télécharger les données d'un DataPackage sur une base de données SQLite cohérente, de sorte que je puisse l'obtenir facilement sous une forme unique.
+En tant qu'analyste de données, je veux comparer différentes versions d'un ensemble de données localement, de sorte que je puisse voir clairement les changements de schéma et ajuster mon code analytique à la version de schéma désirée.
+En tant que développeur Web, je veux pouvoir installer plusieurs versions du même paquet de données séparément, de sorte que tous mes projets puissent être développés indépendamment et déployés localement.
+En tant que développeur, je veux lister toutes les exigences de DataPackages pour mon projet dans le fichier et épingler les versions exactes de tout DataPackage dont dépend mon projet, de sorte que le projet puisse être déployé de manière déterministe localement et ne se brise pas à cause des changements du schéma DataPackage. 
+En tant qu'éditeur, je veux étiqueter un paquet de données pour créer un instantané des données sur le serveur du registre, afin que les consommateurs puissent s'y référer.
+En tant qu'éditeur, je veux être averti qu'une balise existe lorsque j'essaie de l'écraser, afin de ne pas écraser accidentellement des données stables sur lesquelles les consommateurs se fient.
+En tant qu'éditeur, je veux pouvoir écraser le paquet de données précédemment étiqueté, de sorte que je puisse le réparer si je déconne.
+En tant qu'éditeur, je veux mettre à jour mon Data Package et conserver plusieurs versions, y compris les versions plus anciennes, afin de ne pas casser les systèmes des consommateurs lorsque je change mon Data Package.
+En tant qu'éditeur, je veux pouvoir accéder à une version précédente que j'ai taguée, afin de pouvoir y revenir et la revoir. 
+En tant que consommateur, je veux connaître tous les détails de la façon dont le schéma du paquet de données a changé, de sorte que je puisse ajuster mes scripts pour le gérer.
+En tant que consommateur, je veux avoir une idée de l'âge du paquet de données que j'ai téléchargé auparavant, afin de pouvoir décider si je dois le mettre à jour ou non.
+En tant que Consommateur, je souhaite consulter un Datapackage à une version particulière en ligne, afin de pouvoir présenter/discuter avec d'autres personnes de la période de données qui m'intéresse.
+En tant que Consommateur, je souhaite télécharger un Paquet de Données à une version particulière, de sorte que je sache qu'il est compatible avec mes scripts et mon système.
+En tant que consommateur, je veux être informé des changements apportés à un forfait qui me tient à cœur, afin de pouvoir vérifier ce qui a changé et prendre des mesures.
+En tant que consommateur, je veux voir dans quelle mesure le site est actif, afin de pouvoir décider si je dois m'impliquer.
+En tant que consommateur, je veux naviguer et trouver des éditeurs, de sorte que je puisse trouver des éditeurs intéressants et leurs paquets.
+En tant que consommateur, je veux voir le profil d'un éditeur, afin de découvrir ses forfaits et de me faire une idée de leur dynamisme et de leur qualité.
+En tant que consommateur, je veux voir le profil d'un éditeur, afin de voir qui est derrière un emballage particulier ou de voir quels autres emballages ils produisent. 
+En tant que consommateur, je veux faire une recherche parmi tous les paquets de données appartenant à un éditeur, de sorte que je puisse facilement trouver un paquet de données parmi tous les paquets de données de cet éditeur.
+En tant que propriétaire, je souhaite modifier mon profil afin qu'il soit mis à jour avec de nouvelles informations.
+En tant que propriétaire, je veux inviter un utilisateur existant, afin qu'il puisse devenir membre de mon éditeur.
+En tant que propriétaire, je veux inviter quelqu'un qui utilise son courriel à s'inscrire et à devenir membre de mon éditeur, afin qu'il soit autorisé à publier des paquets de données sous mon éditeur.
+En tant que propriétaire, je veux retirer quelqu'un de mon éditeur afin qu'il n'ait plus la possibilité de publier ou de modifier mes paquets de données.
+En tant que propriétaire, je veux voir toutes les personnes de mon organisation et les rôles qu'elles jouent, de sorte que je puisse les modifier si je le souhaite.
+En tant que propriétaire, je veux faire d'un utilisateur un propriétaire, afin qu'il ait un contrôle total.
+En tant que propriétaire, je veux supprimer un utilisateur en tant que propriétaire, pour qu'il ne soit plus qu'un membre et n'ait plus le contrôle total.
+En tant qu'administrateur, je veux définir des paramètres de configuration clés pour le déploiement de mon site, de sorte que je puisse modifier des informations clés comme le titre du site.
+En tant qu'administrateur, je veux voir les mesures clés sur l'utilisation telles que les utilisateurs, l'utilisation de l'API, les téléchargements, afin que je sache comment les choses se passent.
+En tant qu'administrateur, je souhaite disposer d'un plan tarifaire et d'un système de facturation, afin de pouvoir facturer les utilisateurs et rendre ma plate-forme durable.
+En tant qu'éditeur, je veux savoir si ce site a un plan tarifaire et quels sont les prix, afin de pouvoir déterminer ce que cela me coûtera à l'avenir et avoir le sentiment que ces gens sont durables. 
+En tant qu'éditeur, je veux m'inscrire à un plan tarifaire donné, afin d'avoir droit à ce qu'il me permet.
+En tant qu'éditeur, je veux avoir des paquets de données privés, de sorte que je puisse les partager uniquement avec mon équipe.

@@ -1,0 +1,66 @@
+En tant que conservateur de collection, je veux fixer une date après laquelle les données expireront et seront supprimées ou masquées puis supprimées.
+En tant que conservateur de collection, je veux que la date prévue de suppression des notices soit affichée sur les pages des articles et des composants.
+En tant que gestionnaire de référentiel, je veux savoir qui est financièrement responsable de chaque élément du référentiel, qui devrait probablement être une personne-ressource, y compris le nom, le téléphone, le courriel, peut-être le titre et l'adresse.
+En tant que gestionnaire de référentiel, je veux pouvoir exécuter périodiquement un rapport montrant le stockage consommé par chaque contact financier.
+En tant que conservateur d'une collection, je veux mapper un ou plusieurs objets d'une collection à l'autre, de sorte qu'un objet puisse appartenir administrativement à une collection, mais puisse apparaître dans d'autres collections.
+En tant que membre du corps professoral, je veux ajouter un délimiteur de date à une chaîne de recherche, de sorte que je peux limiter une recherche pour ne retourner que les résultats avant, après ou entre une date ou des dates données.
+En tant que développeur, je veux déterminer si nous pouvons utiliser les services d'audit d'événements Fedora 4 intégrés.
+En tant que CPD, je veux que des événements soient créés lorsqu'une publication est publiée et inédite, qui l'a fait, commenter, afin que je puisse enregistrer quand et pourquoi quelque chose a été rendu indisponible.  
+En tant que gestionnaire de référentiel, je veux spécifier la politique de réplication à distance pour chaque collection.
+En tant que gestionnaire de référentiel, je veux choisir de répliquer à distance ou non et éventuellement de répliquer au-delà du site distant principal.
+En tant que conservateur de collection, je veux que le référentiel mette ma collection en file d'attente pour la réplication lors de l'ingestion sur notre site de stockage distant et pour afficher l'état de réplication à distance dans chaque élément et chaque page de composant dans l'interface du personnel.
+En tant que conservateur de collection, je veux avoir un résumé de tous les statuts de réplication à distance au niveau de la collection sur mon tableau de bord.
+En tant que conservateur de collection, je veux que ma collection soit chiffrée à l'aide d'une clé conservée sur ce serveur, d'une somme de contrôle faite et stockée du fichier chiffré, et du fichier chiffré reproduit sur notre site de stockage distant.
+En tant que conservateur de collection, je veux lever l'embargo sur un objet d'une manière simple.
+En tant que repo-admin, je veux que Symplectic Elements communique bidirectionnellement et s'intègre avec DDR, qui fournissent un connecteur Fedora et Emory utilise une instance Fedora cachée pour laquelle Hydra collecte les objets.
+En tant que conservatrice de la collection, je veux que les articles soient disponibles avec les permissions qu'ils ont été configurés une fois que la date d'embargo aura été atteinte.
+En tant que conservateur de collection, je veux créer des formulaires de dépôt spécifiques à la collection.
+En tant que conservateur de collections, je veux donner à certaines collections la possibilité de fixer une date d'embargo au moment du dépôt.
+En tant que conservatrice de la collection, je veux que les métadonnées des articles puissent être découvertes pendant que l'article est sous embargo.
+En tant que conservateur de collection, je veux que l'article soit autorisé en vertu des permissions d'accès établies sur l'objet une fois que les données de l'embargo sont atteintes.
+En tant que repo-admin, je veux que les utilisateurs se voient présenter une licence ou une sélection de licences, spécifique à la collection, et que le dépôt soit refusé si l'auteur de la demande n'accepte pas la licence.
+En tant que repo-admin, je veux que la licence soit enregistrée dans des métadonnées et affichée à côté de l'élément.
+En tant qu'archiviste de DigitalRecords Archivist, je veux disposer d'une méthode pour ingérer par lots les ETD que nous recevons de ProQuest.
+En tant qu'archiviste de DigitalRecords, je veux que l'outil d'ingestion par lots reconnaisse et établisse les embargos, que les permissions pour les articles sous embargo permettent à tout le monde de voir les métadonnées et que les conservateurs de collections et les administrateurs des dépôts téléchargent les fichiers.
+En tant qu'archiviste de DigitalRecords, je veux avoir le référentiel pour lever les embargos à la date de sortie et définir les contrôles d'accès à la configuration définie sur l'élément à cette date.
+En tant que visiteur, je veux que l'état de l'embargo et la date de publication soient clairement affichés et peut-être mis en évidence d'une certaine façon.
+En tant qu'archiviste de DigitalRecords, je veux avoir une méthode pour ajouter et supprimer plusieurs personnes pour déposer des groupes dans des collections spécifiques, pour fixer une date de fermeture de la fenêtre de dépôt, et pour que ces permissions soient conférées à ces déposants qui doivent prendre la permission par défaut de la collection.
+En tant qu'archiviste de DigitalRecords, je veux modifier la durée des embargos.
+En tant qu'archiviste de DigitalRecords, je veux exposer l'enregistrement descriptif de chaque élément ETD pour une réutilisation externe à Fedora.
+En tant qu'archiviste de DigitalRecords, je veux accorder des privilèges d'embargo à d'autres administrateurs de référentiels.
+En tant qu'archiviste de DigitalRecords, je veux avoir une méthode pour ajouter et supprimer des personnes individuelles des groupes de dépôt.
+En tant que conservateur de collections, je veux disposer d'un outil pour effectuer le contrôle de l'autorité d'auteur.
+En tant que conservateur de collection, je veux déplacer des objets d'une collection à l'autre.
+En tant que repo-admin, je veux exposer le contenu du référentiel via OAI-PMH. Audit & Reporting.
+En tant qu'archiviste de DigitalRecords Archivist, je veux consulter et télécharger les métadonnées sommaires de l'embargo pour tous les ETDs dans le référentiel.
+En tant que fournisseur de lots, je veux fournir mes données et métadonnées dans un format simple et documenté au personnel du dépôt pour ingestion.
+En tant que gestionnaire de référentiel, je veux voir les utilisateurs authentifiés, actifs et anonymes.
+En tant que gestionnaire de référentiel, je veux programmer un message aux utilisateurs à afficher sur chaque page du référentiel entre des moments choisis pour des choses comme la notification des temps d'arrêt à venir.
+En tant que gestionnaire de référentiel, je veux voir un affichage des erreurs récentes dédupliquées pour une compréhension facile comme Symplectic Elements fournit.
+En tant que gestionnaire de référentiel, je veux consulter un tableau de bord des statistiques sur la taille des collections, y compris une liste des collections, le nombre d'articles et de composants dans chaque collection, le stockage total consommé par chaque collection, la visualisation des activités de dépôt.
+En tant que conservateur de collection, je veux voir un widget de tableau de bord montrant un résumé des soumissions récentes à ma collection.
+En tant que repo-admin, je veux continuer à fournir l'accès au référentiel en cas de panne du serveur.
+En tant que repo-admin, je veux fournir le SLA du serveur aux contributeurs de données.
+En tant que repo-admin, je veux mettre à jour l'index du référentiel sans perturber l'accès à l'interface publique.
+En tant que repo-admin, je veux fournir une interface Linked Data au référentiel.
+En tant que repo-admin, je veux avoir des éléments symplectiques pour communiquer de manière bidirectionnelle avec le référentiel.
+En tant que développeur, je veux passer à Fedora 4 et migrer nos applications et nos données.
+En tant que conservateur de la collection, je veux que les métadonnées soient modifiées pour que les éléments dont les DOI ont été assignés par le dépôt soient propagés à l'EZID.
+En tant que conservateur de collection, je veux identifier canoniquement les auteurs et les créateurs de mes objets par un identifiant unique, afin qu'il soit plus facile de voir toutes les œuvres de cette personne ensemble.
+En tant que conservateur de la collection, je veux voir les références des visiteurs qui utilisent des liens résumés de résolution pour accéder à mes objets.
+En tant que contributeur de données, je veux me référer au plan de reprise après sinistre dans les demandes de subvention et les plans de gestion des données.
+En tant que déposant, je veux recevoir une rétroaction après l'envoi d'une alerte si les fichiers que j'ai soumis ne sont pas conformes à leurs spécifications de format, s'ils ne sont pas valides, ou s'ils ne sont pas bien formés.
+En tant que fournisseur de lots, je veux accéder à la documentation décrivant le processus d'ingestion du dossier.
+En tant que déposant, je veux voir quels types de choses le dépôt accepte et quels formats sont acceptés et recommandés.
+En tant que déposant, je veux trouver facilement des informations sur les données qui peuvent se voir attribuer un DOI, comment en obtenir un et quelles métadonnées sont requises.
+En tant que conservateur de collection, je veux créer des groupes d'utilisateurs pour gérer les permissions dans le référentiel d'une manière simple.
+En tant que conservateur de collection, je souhaite limiter l'accès à ma collection ou à mes objets aux adresses IP de Duke.
+En tant que conservateur de collection, je veux que les utilisateurs me contactent directement à partir du dépôt pour demander l'accès aux objets restreints.
+En tant que propriétaire d'une collection, je veux que les personnes qui soumettent des documents à ma collection ne puissent pas modifier des documents existants dans cette collection.
+En tant que super-utilisateur, je veux entrer et sortir de la portée super-utilisateur.
+En tant que conservateur de collection, je veux changer les permissions sur un ou plusieurs objets simultanément.
+En tant que conservateur de collection, je veux pouvoir exiger une authentification pour accéder aux objets à moins que la demande ne vienne d'une adresse IP en liste blanche, d'une liste d'adresses.
+En tant que gestionnaire de référentiel, je veux voir les versions disponibles d'un objet et restaurer une version depuis l'interface de la portée.
+En tant que conservateur de la collection, je veux voir l'autorisation sur mes objets en même temps.
+En tant que chercheur non-Duke, je veux décrire mon équipe et mes objets dans le dépôt après qu'ils aient été déposés si on nous a donné l'autorisation de modifier les métadonnées.
+En tant que membre du corps professoral, je veux accéder à mon tableau de bord du référentiel pour gérer les membres de mes classes, accorder des permissions en collant une liste de NetIDs, voir la confirmation que DDR reconnaît les NetIDs, la possibilité de supprimer manuellement les permissions, la possibilité de fixer des dates de début et de fin pour une fenêtre de soumission, et un écran de statut pour indiquer clairement qui a soumis ou non.
